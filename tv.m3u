@@ -1462,130 +1462,132 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="UNCATEGORIZED | GENERAL",🚨 ATN AFG 🚨
 http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 # BD Sportzfy (fetched from live.sportzfy.life)
+# BD Sportzfy (fetched from live.sportzfy.life)
+# DRM streams relayed via sportzfy_relay.py (run: python3 sportzfy_relay.py)
 #EXTINF:-1 group-title="BD Sportzfy",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - SP - Cricket
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - SP - 2 - Cricket [DRM]
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/35597ff2abdb
 #EXTINF:-1 group-title="BD Sportzfy",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - SP - SD - Cricket [DRM]
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+https://sportzfy.x426.duckdns.org/stream/3ea3e3fff41c
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - SP - SD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OukERocGAooV9SZ9Oak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - FOX - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/33e00922ad1e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - SP - HD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuzERoki_6lV9SoO_bmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - WC TV - Football [DRM]
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+https://sportzfy.x426.duckdns.org/stream/39e7435b2efa
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - FAST 1 - Football
 https://hls.live123.fans/live/4459806.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - FAST 2 - Football
 https://pullws-ibo.yiom1.com/sport/QNfJDNwcjNxUzXyAjM/playlist.m3u8?wsSecret=7d0cdd9856c50062abd30b0a861df72b&wsABSTime=6A52639B
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - CAZE TV - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/1ae3966580b2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - SPORTV - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/de68a1bb784c
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - Arabic - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuhEGX-L5oLrKSoV96zFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - CHINA - Football
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - DSPORTS HD - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/9cf48b0caaec
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - SP - 2 - Football
 https://stream.sports3.win/iptv/live/signal-4459802-9398.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - SP - 3 - Football
 https://live.vivo200.com/live/sd-1-4459802.m3u8?txSecret=bfdce7928312a086602317468f35740a&txTime=6A4ABBE7
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - FUSSBALL (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/7f96839e3baf
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - France - Morocco - FUSSBALL 4K (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/540412e0ef4e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - SP - SD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OukERocGAooV9SZ9Oak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - FOX - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/33e00922ad1e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - SP - HD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuzERoki_6lV9SoO_bmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - WC TV - Football [DRM]
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+https://sportzfy.x426.duckdns.org/stream/39e7435b2efa
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - FAST 1 - Football
 https://hls.live123.fans/live/4459806.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - FAST 2 - Football
 https://pullws-ibo.yiom1.com/sport/QNfJDNwcjNxUzXyAjM/playlist.m3u8?wsSecret=7d0cdd9856c50062abd30b0a861df72b&wsABSTime=6A52639B
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - CAZE TV - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/1ae3966580b2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - SPORTV - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/de68a1bb784c
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - Arabic - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuhEGX-L5oLrKSoV96zFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - CHINA - Football
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - DSPORTS HD - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/9cf48b0caaec
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - SP - 2 - Football
 https://stream.sports3.win/iptv/live/signal-4459802-9398.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - SP - 3 - Football
 https://live.vivo200.com/live/sd-1-4459802.m3u8?txSecret=bfdce7928312a086602317468f35740a&txTime=6A4ABBE7
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - FUSSBALL (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/7f96839e3baf
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Spain - Belgium - FUSSBALL 4K (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/540412e0ef4e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - SP - SD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OukERocGAooV9SZ9Oak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - FOX - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/33e00922ad1e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - SP - HD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuzERoki_6lV9SoO_bmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - WC TV - Football [DRM]
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+https://sportzfy.x426.duckdns.org/stream/39e7435b2efa
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - FAST 1 - Football
 https://hls.live123.fans/live/4459806.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - FAST 2 - Football
 https://pullws-ibo.yiom1.com/sport/QNfJDNwcjNxUzXyAjM/playlist.m3u8?wsSecret=7d0cdd9856c50062abd30b0a861df72b&wsABSTime=6A52639B
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - CAZE TV - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/1ae3966580b2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - SPORTV - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/de68a1bb784c
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - Arabic - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuhEGX-L5oLrKSoV96zFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - CHINA - Football
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - DSPORTS HD - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/9cf48b0caaec
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - SP - 2 - Football
 https://stream.sports3.win/iptv/live/signal-4459802-9398.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - SP - 3 - Football
 https://live.vivo200.com/live/sd-1-4459802.m3u8?txSecret=bfdce7928312a086602317468f35740a&txTime=6A4ABBE7
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - FUSSBALL (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/7f96839e3baf
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Norway - England - FUSSBALL 4K (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/540412e0ef4e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - SD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OukERocGAooV9SZ9Oak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - FOX - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/33e00922ad1e
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - HD - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuzERoki_6lV9SoO_bmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - WC TV - Football [DRM]
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+https://sportzfy.x426.duckdns.org/stream/39e7435b2efa
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - FAST 1 - Football
 https://hls.live123.fans/live/4459806.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - FAST 2 - Football
 https://pullws-ibo.yiom1.com/sport/QNfJDNwcjNxUzXyAjM/playlist.m3u8?wsSecret=7d0cdd9856c50062abd30b0a861df72b&wsABSTime=6A52639B
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - CAZE TV - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/1ae3966580b2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - SPORTV - Football [DRM]
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/de68a1bb784c
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - Arabic - Football
 https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuhEGX-L5oLrKSoV96zFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - CHINA - Football
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - DSPORTS HD - Football [DRM]
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+https://sportzfy.x426.duckdns.org/stream/9cf48b0caaec
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - 2 - Football
 https://stream.sports3.win/iptv/live/signal-4459802-9398.m3u8
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - 3 - Football
 https://live.vivo200.com/live/sd-1-4459802.m3u8?txSecret=bfdce7928312a086602317468f35740a&txTime=6A4ABBE7
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - FUSSBALL (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/7f96839e3baf
 #EXTINF:-1 group-title="BD Sportzfy",World Cup 2026 - Quarter Final - Argentina - Switzerland - FUSSBALL 4K (Germany VPN) - Football [DRM]
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+https://sportzfy.x426.duckdns.org/stream/540412e0ef4e
 
