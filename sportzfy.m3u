@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-11 13:39:18 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-11 14:47:07 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
@@ -28,6 +28,9 @@ https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cf78ec80b0f9aed60fc6a338dd34c2aa:886602ae8eeed61e39c85b625d15211f
 #EXTINF:-1 group-title="India in England, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/t5yxqadoqi/out/v1/133fc052fbb040c8bf42447a997ea946/cenc.mpd
+
+#EXTINF:-1 group-title="India in England, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #EXTINF:-1 group-title="India in England, 2026",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dV9RHs1_HVwuqUrndUqAdsI8HVwuQMq8qV8jdsbRH5b5dV1_qU9BoGyhqMHhoUzjoVYuHUduqVq_HkbuHkrKqlSsHGSf3s9KQVdSQlHSokdWokbXolPUQlIsQGz_HsP8qUHuqMo_dUdkqVYRdlrRok__osYaqM_DZjNa4Mo83sESdlwnQldWokbaE08_eGg_4Uzfek8Sd5KJEU1KE5gXFKzyd9ug1pNRolEBdVwhF515LGnmE5BfF5SmHhuJqMo5LGBkFCzXL0o6qpNmQConI0zf&headers=3OvKqGWJE5u6HGSnHGbJiUamqhNmQConI0zfysfjEU1hqGq_9jv2
@@ -103,15 +106,9 @@ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 group-title="Wimbledon Championship",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTINF:-1 group-title="Wimbledon Championship",SP
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -121,9 +118,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 group-title="Wimbledon Championship",SP
 https://cdn03isb-n.tamashaweb.com:8087/jazzauth/wimbledon-avod-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI2IDExOjI4OjM0IEFNJmhhc2hfdmFsdWU9ZlBOTGhIV3JBQkt4UWl5aE5EK25EQT09JnZhbGlkbWludXRlcz02MA%3D%3D
-
-#EXTINF:-1 group-title="Wimbledon Championship",SP
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
 https://spown2.pull-sp-tail-op.online/stream79?&.m3u8
