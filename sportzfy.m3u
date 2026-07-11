@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-11 21:43:10 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-11 22:40:51 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
@@ -15,7 +15,7 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouk
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=b26c37ee61932404d0e08e3e7f544d2a&txTime=6A53F331
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783713324-0-0-3effa8b1145580b595772d4bc8fd06fa
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 2
 https://live05.grita.app/live/24561735.m3u8
@@ -84,7 +84,7 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouk
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=b26c37ee61932404d0e08e3e7f544d2a&txTime=6A53F331
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783713324-0-0-3effa8b1145580b595772d4bc8fd06fa
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 2
 https://live05.grita.app/live/24561735.m3u8
@@ -267,7 +267,7 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouk
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=b26c37ee61932404d0e08e3e7f544d2a&txTime=6A53F331
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783713324-0-0-3effa8b1145580b595772d4bc8fd06fa
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 2
 https://live05.grita.app/live/24561735.m3u8
