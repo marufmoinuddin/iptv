@@ -1,163 +1,163 @@
 #EXTM3U
-#PLAYLIST: BD IPTV (generated 2026-07-11 07:48:36 UTC)
+#PLAYLIST: BD IPTV (generated 2026-07-11 08:10:34 UTC)
 #SOURCE: BD Sportzfy + static channels
 #
 
 # Sportzfy Live Events
-#EXTINF:-1 group-title="SP",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - SP - Cricket
+#EXTINF:-1 group-title="Sportzfy",SP
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 group-title="SP",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - SP - 2 - Cricket [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/35597ff2abdb
 
-#EXTINF:-1 group-title="SP",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - SP - SD - Cricket [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/3ea3e3fff41c
 
-#EXTINF:-1 group-title="Backup",Banglpadesh in Zimbabwe, 2026 - Zimbabwe - Bangladesh - Backup - Cricket
+#EXTINF:-1 group-title="Sportzfy",Backup
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8
 
-#EXTINF:-1 group-title="SP",Friday Night SmackDown - Friday Night SmackDown - Friday Night SmackDown - SP - WWE
+#EXTINF:-1 group-title="Sportzfy",SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
-#EXTINF:-1 group-title="India in England, 2026",India in England, 2026 - England - India - Server 1 - Cricket [DRM]
+#EXTINF:-1 group-title="Sportzfy",Server 1
 https://sportzfy.x426.duckdns.org/stream/65e506a7e8f8
 
-#EXTINF:-1 group-title="India in England, 2026",India in England, 2026 - England - India - Server 3 - Cricket
+#EXTINF:-1 group-title="Sportzfy",Server 3
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=d59uolySqVw5o59hqMq8qsbhdVvsokbkQGo8QGv8okHBokdBQVwuqsPUHkYKQlb5oldKdVqsdkwBdVzjqVYKdsSsHGSf3srBQVbSQlbkdV9ndVbBdkYndlyXqUHkHVo8QMdkdUbWdlEnQVHnolrBQl9RdVv_qsdnqVbaqM_DZjNa4Mo83sASokrSosdWokbaE08_eGg_4Uzfek8Sd5KJEU1KE5gXFKzyd9ug1pajFVEKokbBdlymq7q64pak4MYm4GasFUuAHRq640dJIMSfE5_AFhNcERPKIMY
 
-#EXTINF:-1 group-title="India in England, 2026",India in England, 2026 - England - India - Hindi - Cricket
+#EXTINF:-1 group-title="Sportzfy",Hindi
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=d59uolySqVw5o59hqMq8qsbhdVvsokbkQGo8QGv8okHBokdBQVwuqsPUHkYKQlb5oldKdVqsdkwBdVzjqVYKdsSsHGSf3srBQVbSQlbkdV9ndVbBdkYndlyXqUHkHVo8QMdkdUbWdlEnQVHnolrBQl9RdVv_qsdnqVbaqM_DZjNa4Mo83sASokrSosdWokbaE08_eGg_4Uzfek8Sd5KJEU1KE5gXFKzydKug1pajFVbuoVwhdlymq7q64pak4MYm4GasFUuAHRq640dJIMSfE5_AFhNcERPKIMY
 
-#EXTINF:-1 group-title="Low",India in England, 2026 - England - India - Low - Cricket
+#EXTINF:-1 group-title="Sportzfy",Low
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4Ouz91gz91gzrAvpzjak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="SP",Formula 1 - Formula 1 - Formula 1 - SP - Motorsports [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/dc9d4a7bb079
 
-#EXTINF:-1 group-title="SP",Formula 1 - Formula 1 - Formula 1 - SP - Motorsports
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuHG_6LG_fmE5BfFkAKFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUg6qMuvdly_ERHndj1A4UgTq5ugF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
-#EXTINF:-1 group-title="Formula 1",Formula 1 - Formula 1 - Formula 1 - Server 1 - Motorsports [DRM]
+#EXTINF:-1 group-title="Sportzfy",Server 1
 https://sportzfy.x426.duckdns.org/stream/662e821af3af
 
-#EXTINF:-1 group-title="Formula 1",Formula 1 - Formula 1 - Formula 1 - Server 2 - Motorsports
+#EXTINF:-1 group-title="Sportzfy",Server 2
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OWtI0o640_840wXqMgm4pNkoVYhoOaKE5_TiGgTEpaKqGWJ4UgXE5__EU1fFCznqRz8LMdmFk6kE0zKLw&headers=3OvKqGWJE5u6HGSnHGbJiUamqhNmQConI0zfysfjEU1hqGq_9jv2
 
-#EXTINF:-1 group-title="Formula 1",Formula 1 - Formula 1 - Formula 1 - Server 3 - Motorsports
+#EXTINF:-1 group-title="Sportzfy",Server 3
 https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8
 
-#EXTINF:-1 group-title="SP",MotoGP - MotoGP - MotoGP - SP - Motorsports [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/07c974b2b3fc
 
-#EXTINF:-1 group-title="SP",MotoGP - MotoGP - MotoGP - SP - 2 - Motorsports [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/17bab01bbf2b
 
-#EXTINF:-1 group-title="SP",MotoGP - MotoGP - MotoGP - SP - 3 - Motorsports [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/0c8e73677af7
 
-#EXTINF:-1 group-title="SP",MotoGP - MotoGP - MotoGP - SP - 4 - Motorsports [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/680522c15c4d
 
-#EXTINF:-1 group-title="Major League Cricket, 2026",Major League Cricket, 2026 - Texas Super Kings - Washington Freedom - Server 1 - Cricket [DRM]
+#EXTINF:-1 group-title="Sportzfy",Server 1
 https://sportzfy.x426.duckdns.org/stream/ffbb571a4a08
 
-#EXTINF:-1 group-title="Major League Cricket, 2026",Major League Cricket, 2026 - Texas Super Kings - Washington Freedom - Server 2 - Cricket
+#EXTINF:-1 group-title="Sportzfy",Server 2
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141
 
-#EXTINF:-1 group-title="SP",India Women in England, 2026 - England Women - India Women - SP - Cricket [DRM]
+#EXTINF:-1 group-title="Sportzfy",SP
 https://sportzfy.x426.duckdns.org/stream/52de58619a08
 
-#EXTINF:-1 group-title="SP",Monday Night Raw - Monday Night Raw - Monday Night Raw - SP - WWE
+#EXTINF:-1 group-title="Sportzfy",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Norway - England - SP - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://spown2.pull-sp-tail-op.online/stream79?&.m3u8
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Norway - England - SP - BBC - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAooV9SZ91qGFRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="FOX",World Cup 2026 - Quarter Final - Norway - England - FOX - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",FOX
 https://sportzfy.x426.duckdns.org/stream/33e00922ad1e
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Norway - England - SP - FOX - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAooV9SZ91qGFRoTLpNSoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Norway - England - SP - FR - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Norway - England - SP - ES - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7g-L5XsGAooV9SZ91qGFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",World Cup 2026 - Quarter Final - Norway - England - RAW FEED - Football
+#EXTINF:-1 group-title="Sportzfy",RAW FEED
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Ql1golbSrVHaqGS6108KvUoAQlq_okAhdVyudkq_QMHBdldhH5ySQM9WqMduoMvAe7z_EUo_9R8Kek8Sd5KJQVwWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3Oym4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="CAZE TV",World Cup 2026 - Quarter Final - Norway - England - CAZE TV - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",CAZE TV
 https://sportzfy.x426.duckdns.org/stream/1ae3966580b2
 
-#EXTINF:-1 group-title="SPORTV",World Cup 2026 - Quarter Final - Norway - England - SPORTV - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",SPORTV
 https://sportzfy.x426.duckdns.org/stream/de68a1bb784c
 
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",World Cup 2026 - Quarter Final - Norway - England - Arabic - Football
+#EXTINF:-1 group-title="Sportzfy",Arabic
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuhEGX-L5oLrKSoV96z1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="CHINA",World Cup 2026 - Quarter Final - Norway - England - CHINA - Football
+#EXTINF:-1 group-title="Sportzfy",CHINA
 https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8
 
-#EXTINF:-1 group-title="DSPORTS HD",World Cup 2026 - Quarter Final - Norway - England - DSPORTS HD - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",DSPORTS HD
 https://sportzfy.x426.duckdns.org/stream/9cf48b0caaec
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Norway - England - SP - NL - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7gBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="FUSSBALL (Germany VPN)",World Cup 2026 - Quarter Final - Norway - England - FUSSBALL (Germany VPN) - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",FUSSBALL (Germany VPN)
 https://sportzfy.x426.duckdns.org/stream/7f96839e3baf
 
-#EXTINF:-1 group-title="FUSSBALL 4K (Germany VPN)",World Cup 2026 - Quarter Final - Norway - England - FUSSBALL 4K (Germany VPN) - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",FUSSBALL 4K (Germany VPN)
 https://sportzfy.x426.duckdns.org/stream/540412e0ef4e
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://spown2.pull-sp-tail-op.online/stream79?&.m3u8
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - BBC - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAooV9SZ91qGFRoTLpNRopWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="FOX",World Cup 2026 - Quarter Final - Argentina - Switzerland - FOX - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",FOX
 https://sportzfy.x426.duckdns.org/stream/33e00922ad1e
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - FOX - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OukERocGAooV9SZ91qGFRoTLpNSoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - FR - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - ES - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7g-L5XsGAooV9SZ91qGFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",World Cup 2026 - Quarter Final - Argentina - Switzerland - RAW FEED - Football
+#EXTINF:-1 group-title="Sportzfy",RAW FEED
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Ql1golbSrVHaqGS6108KvUoAQlq_okAhdVyudkq_QMHBdldhH5ySQM9WqMduoMvAe7z_EUo_9R8Kek8Sd5KJQVwWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3Oym4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="CAZE TV",World Cup 2026 - Quarter Final - Argentina - Switzerland - CAZE TV - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",CAZE TV
 https://sportzfy.x426.duckdns.org/stream/1ae3966580b2
 
-#EXTINF:-1 group-title="SPORTV",World Cup 2026 - Quarter Final - Argentina - Switzerland - SPORTV - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",SPORTV
 https://sportzfy.x426.duckdns.org/stream/de68a1bb784c
 
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",World Cup 2026 - Quarter Final - Argentina - Switzerland - Arabic - Football
+#EXTINF:-1 group-title="Sportzfy",Arabic
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuhEGX-L5oLrKSoV96z1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="CHINA",World Cup 2026 - Quarter Final - Argentina - Switzerland - CHINA - Football
+#EXTINF:-1 group-title="Sportzfy",CHINA
 https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8
 
-#EXTINF:-1 group-title="DSPORTS HD",World Cup 2026 - Quarter Final - Argentina - Switzerland - DSPORTS HD - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",DSPORTS HD
 https://sportzfy.x426.duckdns.org/stream/9cf48b0caaec
 
-#EXTINF:-1 group-title="SP",World Cup 2026 - Quarter Final - Argentina - Switzerland - SP - NL - Football
+#EXTINF:-1 group-title="Sportzfy",SP
 https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7gBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="FUSSBALL (Germany VPN)",World Cup 2026 - Quarter Final - Argentina - Switzerland - FUSSBALL (Germany VPN) - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",FUSSBALL (Germany VPN)
 https://sportzfy.x426.duckdns.org/stream/7f96839e3baf
 
-#EXTINF:-1 group-title="FUSSBALL 4K (Germany VPN)",World Cup 2026 - Quarter Final - Argentina - Switzerland - FUSSBALL 4K (Germany VPN) - Football [DRM]
+#EXTINF:-1 group-title="Sportzfy",FUSSBALL 4K (Germany VPN)
 https://sportzfy.x426.duckdns.org/stream/540412e0ef4e
 
 
