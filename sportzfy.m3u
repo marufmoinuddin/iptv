@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-11 20:02:27 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-11 21:43:10 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
@@ -15,13 +15,25 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouk
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
+https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=b26c37ee61932404d0e08e3e7f544d2a&txTime=6A53F331
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 2
+https://live05.grita.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6li7_uiOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAoui7_uFRoTLpNSoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAoui7_uFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",RAW FEED
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Ql1golbSrVHaqGS6108KvUoAQlq_okAhdVyudkq_QMHBdldhH5ySQM9WqMduoMvAe7z_EUo_9R8Kek8Sd5KJQVwWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3Oym4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dkAkrsySrVHaqGS6108KvsrBqG9SqGg8QGzUHsbSqM1sdlv8HsyKQGz_qV8AqMyhe7z_EUo_9R8Kek8Sd5KJdlbWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3OykQVopds1PoArkvG1XL1zWIlHhvVrBqG9SqGg8QGzUHsbSqM1sdlv8HsyKQGz_qV8AqMyhzld_IM1hH51Vi0zMdh9WIVoXFswBQlASolrXdOSAEKHhvG15LGBMdj1X45dJdlwh4Rq6Iju_IU_Tzsy_zsy_rVd_ERPKIMYa40v1q7q64laT47zfFC8_qMu6F515LGnm4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -36,19 +48,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",Arabic
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuhEGX-L5oLrKSoV96z1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
+https://cp11.adabmedia.com/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8
+https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",DSPORTS HD
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7gBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -75,13 +84,25 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouk
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
+https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=b26c37ee61932404d0e08e3e7f544d2a&txTime=6A53F331
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 2
+https://live05.grita.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6li7_uiOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAoui7_uFRoTLpNSoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAoui7_uFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",RAW FEED
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Ql1golbSrVHaqGS6108KvUoAQlq_okAhdVyudkq_QMHBdldhH5ySQM9WqMduoMvAe7z_EUo_9R8Kek8Sd5KJQVwWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3Oym4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dkAkrsySrVHaqGS6108KvsrBqG9SqGg8QGzUHsbSqM1sdlv8HsyKQGz_qV8AqMyhe7z_EUo_9R8Kek8Sd5KJdlbWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3OykQVopds1PoArkvG1XL1zWIlHhvVrBqG9SqGg8QGzUHsbSqM1sdlv8HsyKQGz_qV8AqMyhzld_IM1hH51Vi0zMdh9WIVoXFswBQlASolrXdOSAEKHhvG15LGBMdj1X45dJdlwh4Rq6Iju_IU_Tzsy_zsy_rVd_ERPKIMYa40v1q7q64laT47zfFC8_qMu6F515LGnm4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -96,19 +117,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",Arabic
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuhEGX-L5oLrKSoV96z1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
+https://cp11.adabmedia.com/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8
+https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 #EXTINF:-1 group-title="World Cup 2026 - Quarter Final",DSPORTS HD
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7gBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -205,9 +223,9 @@ https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/cebd4857.isml/.mpd?dv
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4706fe148f532db9cff8c11bab4d76b0:6d644a5c18e60d9270e71c23ebf925a2
+#KODIPROP:inputstream.adaptive.license_key=b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc
 #EXTINF:-1 group-title="Major League Cricket, 2026",Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/e73yrt56wm/out/v1/3caed82a008542e69efbf8f3aaec79a0/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/yyygbkxkmq/out/v1/327783ce761d4df39e638af21d928fa0/cenc.mpd
 
 #EXTINF:-1 group-title="Major League Cricket, 2026",Server 2
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141
@@ -249,13 +267,25 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouk
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://pul-tenm.gkykp.com/live/hd-en-1-4459810.m3u8?txSecret=b26c37ee61932404d0e08e3e7f544d2a&txTime=6A53F331
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 2
+https://live05.grita.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6li7_uiOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAoui7_uFRoTLpNSoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAoui7_uFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",RAW FEED
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Ql1golbSrVHaqGS6108KvUoAQlq_okAhdVyudkq_QMHBdldhH5ySQM9WqMduoMvAe7z_EUo_9R8Kek8Sd5KJQVwWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3Oym4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dkAkrsySrVHaqGS6108KvsrBqG9SqGg8QGzUHsbSqM1sdlv8HsyKQGz_qV8AqMyhe7z_EUo_9R8Kek8Sd5KJdlbWQV9KopKBFGzkF515LGnm4GasFswndUa5L7HJq7q64pNmQConI0zf&headers=3OykQVopds1PoArkvG1XL1zWIlHhvVrBqG9SqGg8QGzUHsbSqM1sdlv8HsyKQGz_qV8AqMyhzld_IM1hH51Vi0zMdh9WIVoXFswBQlASolrXdOSAEKHhvG15LGBMdj1X45dJdlwh4Rq6Iju_IU_Tzsy_zsy_rVd_ERPKIMYa40v1q7q64laT47zfFC8_qMu6F515LGnm4GasFsAnQG1JLGBJ4huhq7_840wmFk6kE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -270,19 +300,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuhEGX-L5oLrKSoV96z1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
+https://cp11.adabmedia.com/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8
+https://pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",DSPORTS HD
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuBE7gBL5X-HS6lV9SoO_gG1jak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aXIG_C4M1p7Ro575u6H7PV7kHhdlv3E01s75zTEUaR7KgMO9HmHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
