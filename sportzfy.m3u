@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-11 17:50:06 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-11 18:52:22 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
@@ -22,6 +22,15 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dV9RHs1_
 
 #EXTINF:-1 group-title="India in England, 2026",Low
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouz91gz91gzrAvpzjak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49def90d59d0f6b46583d1c8deb4a652:b259a61601b695a25df12fe13995f802
+#EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/yjj3kcke8p/out/v1/08ddbaeae1434d86ac9698935fff784a/cenc.mpd
+
+#EXTINF:-1 group-title="New Zealand in West Indies, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
