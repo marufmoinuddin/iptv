@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-12 20:05:41 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-12 21:42:39 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
@@ -76,6 +76,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 group-title="Major League Cricket, 2026",Server 2
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8|referer=https://live.sportzfy.life
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
