@@ -1,67 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-12 02:06:33 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-12 05:50:57 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 2
-https://live05.grita.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 3
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAoui7_uFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6li7_uiOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAoui7_uFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",CAZE TV
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",SPORTV
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FAST 4
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",Arabic
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuMOgv9Ob1Oz9qG1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFCv875zJHGBhq76KL7IV7Ro575gJL7zJqGIhr1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",DSPORTS HD
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 group-title="World Cup 2026 - Quarter Final",FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
@@ -169,6 +109,66 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 group-title="Wimbledon Championship",SP
 https://cdn03isb-n.tamashaweb.com:8087/jazzauth/wimbledon-avod-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDI2IDExOjI4OjM0IEFNJmhhc2hfdmFsdWU9ZlBOTGhIV3JBQkt4UWl5aE5EK25EQT09JnZhbGlkbWludXRlcz02MA%3D%3D
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 2
+https://live05.grita.app/live/78905744.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAoui7_uFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6li7_uiOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAoui7_uFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CAZE TV
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SPORTV
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 4
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuMOgv9Ob1Oz9qG1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFCv875zJHGBhq76KL7IV7Ro575gJL7zJqGIhr1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CHINA
+https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",DSPORTS HD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL (Germany VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL 4K (Germany VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
