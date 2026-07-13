@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-13 10:19:13 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-13 16:25:24 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
@@ -22,6 +22,9 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dV9RHs1_
 
 #EXTINF:-1 group-title="India in England, 2026",Low
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouz91gz91gzrAvpzjak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
+
+#EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
+https://enc2.pull-sp-tail-op.online/stream.png?&.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -76,12 +79,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e
-#EXTINF:-1 group-title="India Women in England, 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
