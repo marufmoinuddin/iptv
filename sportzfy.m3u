@@ -1,7 +1,25 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-13 16:25:24 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-14 00:07:09 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
+#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",Backup
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8
+
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
@@ -23,14 +41,11 @@ https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dV9RHs1_
 #EXTINF:-1 group-title="India in England, 2026",Low
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouz91gz91gzrAvpzjak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
-#EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
-https://enc2.pull-sp-tail-op.online/stream.png?&.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49def90d59d0f6b46583d1c8deb4a652:b259a61601b695a25df12fe13995f802
+#KODIPROP:inputstream.adaptive.license_key=7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/yjj3kcke8p/out/v1/08ddbaeae1434d86ac9698935fff784a/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/fl5kdbbz5x/out/v1/c7fffd527e6f455cb7d078cf536b5e13/cenc.mpd
 
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
@@ -79,6 +94,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 group-title="Monday Night Raw",SP
+https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
