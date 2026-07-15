@@ -1,51 +1,111 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-14 07:07:28 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-15 20:31:19 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 2
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWRdGB_4Uu8LMdmq7q64paX45dJq7oTI7P_IU_TiGvXHG1hI0dJdU15LGnmFk6kE0zKLw&headers=3Oym4GasFC6_EUasER8_I0_jq7q64pumH5akFhNcERPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAogzjak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6lz9HmE5BfFkASFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAogzjak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 4
+https://hls.live123.fans/live/4459812.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuqG1_qGOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic 2
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CHINA
+https://pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",DSPORTS HD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL (Germany VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL 4K (Germany VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
-#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",Backup
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8
+#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",FC - BDIX
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/fc.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf78ec80b0f9aed60fc6a338dd34c2aa:886602ae8eeed61e39c85b625d15211f
+#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
 #EXTINF:-1 group-title="India in England, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/t5yxqadoqi/out/v1/133fc052fbb040c8bf42447a997ea946/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
 
 #EXTINF:-1 group-title="India in England, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="India in England, 2026",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dV9RHs1_HVwuqUrndUqAdsI8HVwuQMq8qV8jdsbRH5b5dV1_qU9BoGyhqMHhoUzjoVYuHUduqVq_HkbuHkrKqlSsHGSf3s9KQVdSQlHSokdWokbXolPUQlIsQGz_HsP8qUHuqMo_dUdkqVYRdlrRok__osYaqM_DZjNa4Mo83sESdlwnQldWokbaE08_eGg_4Uzfek8Sd5KJEU1KE5gXFKzyd9ug1pNRolEBdVwhF515LGnmE5BfF5SmHhuJqMo5LGBkFCzXL0o6qpNmQConI0zf&headers=3OvKqGWJE5u6HGSnHGbJiUamqhNmQConI0zfysfjEU1hqGq_9jv2
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWndl9k7Rv_I0o84ONSosvUoGosdMdWqlyRol1UqGb5HV_8oUgUQMzUQMq8HVv_dlYnd5qsHUykd5HKolvsdsySQVgjdlvAHsbBHVv8eGo84G8D40zJqMYaH7z8q0W5oldSdsAWdVwKQlEBFGrBqsP8Hk_jdl8AdGHKHVYRqVdKoVA5qs9Bdko8oVPAeGz63j6Udj9a4Mo83sHuol9ndVrWokbaE08_eGBK4UzfFKzyGb_VG9ue9hajFVduoVwhdlymq7q64pak4MYm4GasFUuAHRq640dJIMSfE5_AFhNcERPKIMY
 
 #EXTINF:-1 group-title="India in England, 2026",Hindi
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=dV9RHs1_HVwuqUrndUqAdsI8HVwuQMq8qV8jdsbRH5b5dV1_qU9BoGyhqMHhoUzjoVYuHUduqVq_HkbuHkrKqlSsHGSf3s9KQVdSQlHSokdWokbXolPUQlIsQGz_HsP8qUHuqMo_dUdkqVYRdlrRok__osYaqM_DZjNa4Mo83sESdlwnQldWokbaE08_eGg_4Uzfek8Sd5KJEU1KE5gXFKzydKug1pNBQV9ndswhF515LGnmE5BfF5SmHhuJqMo5LGBkFCzXL0o6qpNmQConI0zf
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWndl9k7Rv_I0o84ONSosvUoGosdMdWqlyRol1UqGb5HV_8oUgUQMzUQMq8HVv_dlYnd5qsHUykd5HKolvsdsySQVgjdlvAHsbBHVv8eGo84G8D40zJqMYaH7z8q0W5oldSdsAWdVwKQlEBFGrBqsP8Hk_jdl8AdGHKHVYRqVdKoVA5qs9Bdko8oVPAeGz63j6Udj9a4Mo83sHuol9ndVrWokbaE08_eGBK4UzfFKzydKug1pajFVbuoVwhdlymq7q64pak4MYm4GasFUuAHRq640dJIMSfE5_AFhNcERPKIMY
 
 #EXTINF:-1 group-title="India in England, 2026",Low
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4Ouz91gz91gzrAvpzjak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuciC6cFRoTLpNKopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/fl5kdbbz5x/out/v1/c7fffd527e6f455cb7d078cf536b5e13/cenc.mpd
+
+#EXTINF:-1 group-title="New Zealand in West Indies, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+#EXTINF:-1 group-title="New Zealand in West Indies, 2026",FC
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -92,68 +152,3 @@ https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 2
-https://live05.grita.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 3
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAoui7_uFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6li7_uiOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAoui7_uFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aA4UgTq5ug7Ro57R_8IRvmV_N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CAZE TV
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SPORTV
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 4
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuMOgv9Ob1Oz9qG1_HmE5BfFkbSFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFCv875zJHGBhq76KL7IV7Ro575gJL7zJqGIhr1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
-
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",DSPORTS HD
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CustomChannel
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
