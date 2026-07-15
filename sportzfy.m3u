@@ -1,56 +1,107 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-15 21:54:04 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-15 22:54:11 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 2
+#EXTINF:-1 group-title="World Cup 2026 - Final",FAST 2
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWRdGB_4Uu8LMdmq7q64paX45dJq7oTI7P_IU_TiGvXHG1hI0dJdU15LGnmFk6kE0zKLw&headers=3Oym4GasFC6_EUasER8_I0_jq7q64pumH5akFhNcERPKIMYjQjvhq7v_qU1OyCT
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAogzjak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6lz9HmE5BfFkASFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",SP
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAogzjak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FAST 4
+#EXTINF:-1 group-title="World Cup 2026 - Final",FAST 4
 https://hls.live123.fans/live/4459812.m3u8
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic
+#EXTINF:-1 group-title="World Cup 2026 - Final",Arabic
 https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuqG1_qGOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",Arabic 2
+#EXTINF:-1 group-title="World Cup 2026 - Final",Arabic 2
 https://cp11.adabmedia.com/hls2/sport.m3u8
 
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",CHINA
+#EXTINF:-1 group-title="World Cup 2026 - Final",CHINA
 https://pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",DSPORTS HD
+#EXTINF:-1 group-title="World Cup 2026 - Final",DSPORTS HD
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL (Germany VPN)
+#EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL (Germany VPN)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 group-title="World Cup 2026 - Semi Final",FUSSBALL 4K (Germany VPN)
+#EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL 4K (Germany VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FAST 2
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWRdGB_4Uu8LMdmq7q64paX45dJq7oTI7P_IU_TiGvXHG1hI0dJdU15LGnmFk6kE0zKLw&headers=3Oym4GasFC6_EUasER8_I0_jq7q64pumH5akFhNcERPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OukERocGAogzjak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBL5X-HS6lz9HmE5BfFkASFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuBE7g-L5XsGAogzjak4MYmdV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FAST 4
+https://hls.live123.fans/live/4459812.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",Arabic
+https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuqG1_qGOak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1a84U_K4U1CEAg3ERq3qMu84MIJz1N5dswh7RPSHSaA40vmISaPzA_MF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",Arabic 2
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",CHINA
+https://pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",DSPORTS HD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FUSSBALL (Germany VPN)
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FUSSBALL 4K (Germany VPN)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
