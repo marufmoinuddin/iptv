@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-16 18:01:42 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-16 19:58:57 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -142,12 +142,12 @@ https://ebhgcexwvrcwtoigljiv.supabase.co/functions/v1/swift-processor?url=qUdBol
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72
+#KODIPROP:inputstream.adaptive.license_key=2af5031d717117b3abe01558b78e2df5:a971f2b0740eeb1d1ef3e0f2936db73b
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/fl5kdbbz5x/out/v1/c7fffd527e6f455cb7d078cf536b5e13/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/kwxr7dys0w/out/v1/9e848f34d74f4085a9936b35dd0863cc/cenc.mpd
 
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -200,8 +200,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 group-title="Major League Cricket, 2026",Server 2
-https://spown.pull-sp-tail-op.online/stream69?&.m3u8|referer=https://live.sportzfy.life
+#EXTINF:-1 group-title="Major League Cricket, 2026",SP
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
