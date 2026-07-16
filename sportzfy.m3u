@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-16 12:17:13 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-16 14:55:34 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -134,6 +134,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb
 #EXTINF:-1 group-title="India in England, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
+#EXTINF:-1 group-title="India in England, 2026",SP
+https://ebhgcexwvrcwtoigljiv.supabase.co/functions/v1/swift-processor?url=qUdBolHkqVYKolYnQVABosHSql_jdVq_o5zUdk18qsqUd5bRdkP_HVykoVyKHVbnolHKqUySQVHnH5HkqMbRdkSsHGSf3sHhQVynoVwBdkAKdsEndsyhdk95okABos9udVd5dVwWeGz63jfmeGBsH7W5dk9nolyKQlEBe7PWqVS8qGuALlNWIVoXFCv_I0o84OabOlgQz1rmokrRdVbndja_IU_TFRoTLpaX45dJ4UzsIU_TEhuK4G8kLGrmFk6kE0zKLw
+
+#EXTINF:-1 group-title="India in England, 2026",Hindi
+https://ebhgcexwvrcwtoigljiv.supabase.co/functions/v1/swift-processor?url=qUdBolHkqVYKolYnQVABosHSql_jdVq_o5zUdk18qsqUd5bRdkP_HVykoVyKHVbnolHKqUySQVHnH5HkqMbRdkSsHGSf3sHhQVynoVwBdkAKdsEndsyhdk95okABos9udVd5dVwWeGz63jfmeGBsH7W5dk9nolyKQlEBe7PWqVS8qGuALlNWIVoXFCv_I0o84OabOloQz1rmdVASdlyndja_IU_TFRoTLpaX45dJ4UzsIU_TEhuK4G8kLGrmFk6kE0zKLw
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72
@@ -148,6 +154,12 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",FC
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys"0000000000000000000000000:[{"kty"0000000000000000000000000
+#EXTINF:-1 group-title="ICC CWC League 2, 2023-27",Server 1
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781319609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2590e07d1f6b9fb7dd8b4373d617b342c39ecaa170ec607de159306027573c7d/manifest.mpd?vcfilter=2648abc6-c17d-4e80-866f-088aae2d0c7e|referer=https://www.icc-cricket.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -187,6 +199,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 group-title="Major League Cricket, 2026",Server 2
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8|referer=https://live.sportzfy.life
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
