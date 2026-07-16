@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-16 10:52:51 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-16 12:17:13 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -127,21 +127,12 @@ https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
+#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
 #EXTINF:-1 group-title="India in England, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
 
 #EXTINF:-1 group-title="India in England, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 group-title="India in England, 2026",SP
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWndl9k7Rv_I0o84ONSosvUoGosdMdWqlyRol1UqGb5HV_8oUgUQMzUQMq8HVv_dlYnd5qsHUykd5HKolvsdsySQVgjdlvAHsbBHVv8eGo84G8D40zJqMYaH7z8q0W5oldSdsAWdVwKQlEBFGrBqsP8Hk_jdl8AdGHKHVYRqVdKoVA5qs9Bdko8oVPAeGz63j6Udj9a4Mo83sHuol9ndVrWokbaE08_eGBK4UzfFKzyGb_VG9ue9hajFVduoVwhdlymq7q64pak4MYm4GasFUuAHRq640dJIMSfE5_AFhNcERPKIMY
-
-#EXTINF:-1 group-title="India in England, 2026",Hindi
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OWndl9k7Rv_I0o84ONSosvUoGosdMdWqlyRol1UqGb5HV_8oUgUQMzUQMq8HVv_dlYnd5qsHUykd5HKolvsdsySQVgjdlvAHsbBHVv8eGo84G8D40zJqMYaH7z8q0W5oldSdsAWdVwKQlEBFGrBqsP8Hk_jdl8AdGHKHVYRqVdKoVA5qs9Bdko8oVPAeGz63j6Udj9a4Mo83sHuol9ndVrWokbaE08_eGBK4UzfFKzydKug1pajFVbuoVwhdlymq7q64pak4MYm4GasFUuAHRq640dJIMSfE5_AFhNcERPKIMY
-
-#EXTINF:-1 group-title="India in England, 2026",Low
-https://jzlocreblfyeoqnridmg.supabase.co/functions/v1/clever-worker?url=Q09k4OuciC6cFRoTLpNKopWhojWRopWkQVbmFk6nI0zf&headers=3OymHRdJERI_4UgRHGHJIRIRFhNcE0zKLpycyCv_EU1Uq1yjin
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
