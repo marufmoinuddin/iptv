@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-17 12:04:24 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-17 14:28:11 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -122,6 +122,60 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",FC - BDIX
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgowdrkqvo/out/v1/194f84fd6c814d88ba29cb1653043357/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://cook.pull-sp-tail-op.online/asp/stream.png?&.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgowdrkqvo/out/v1/194f84fd6c814d88ba29cb1653043357/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://cook.pull-sp-tail-op.online/asp/stream.png?&.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgowdrkqvo/out/v1/194f84fd6c814d88ba29cb1653043357/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://cook.pull-sp-tail-op.online/asp/stream.png?&.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgowdrkqvo/out/v1/194f84fd6c814d88ba29cb1653043357/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://cook.pull-sp-tail-op.online/asp/stream.png?&.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgowdrkqvo/out/v1/194f84fd6c814d88ba29cb1653043357/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://cook.pull-sp-tail-op.online/asp/stream.png?&.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgowdrkqvo/out/v1/194f84fd6c814d88ba29cb1653043357/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://cook.pull-sp-tail-op.online/asp/stream.png?&.m3u8
+
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
@@ -160,15 +214,6 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"keys"0000000000000000000000000:[{"kty"0000000000000000000000000
 #EXTINF:-1 group-title="ICC CWC League 2, 2023-27",Server 1
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781319609~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2590e07d1f6b9fb7dd8b4373d617b342c39ecaa170ec607de159306027573c7d/manifest.mpd?vcfilter=2648abc6-c17d-4e80-866f-088aae2d0c7e|referer=https://www.icc-cricket.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-#EXTINF:-1 group-title="Formula 1",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd
-
-#EXTINF:-1 group-title="Formula 1",SP
-https://bfiaawagaalygikasqdk.supabase.co/functions/v1/swift-api?url=Q09k4OuHG_6LG_fmE5BfFkAKFsy5FsEKFsdudONmQCPKIMY&headers=3OvT47zfFUg6qMuvdly_ERHndj1A4UgTq5ugF5okFCoRqGu8I5gUFCIRIhNmQCPKIMYjQjvhq7v_qU1OyCT
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
