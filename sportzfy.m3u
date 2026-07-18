@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-18 16:50:09 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-18 17:52:28 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -217,9 +217,9 @@ https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3f90cc7280490c20a54405dfb0cf744:c5ef31239f2e9146de635ebf39f62466
-#EXTINF:-1 group-title="Vitality Blast, 2026",Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3
+#EXTINF:-1 group-title="Vitality Blast Final, 2026",Server 1
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/tcuiz4vvgp/out/v1/592a07c12bad4e238a9368baf2bc0a6b/cenc.mpd
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
