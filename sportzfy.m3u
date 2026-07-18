@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-18 17:52:28 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-18 18:54:22 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -140,12 +140,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/2jvuxazqdu/out/v1/2aa757faf26849d59
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/2jvuxazqdu/out/v1/2aa757faf26849d59be9185edaf49192/cenc.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
-#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/2jvuxazqdu/out/v1/2aa757faf26849d59be9185edaf49192/cenc.mpd
-
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
@@ -220,6 +214,9 @@ https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3
 #EXTINF:-1 group-title="Vitality Blast Final, 2026",Server 1
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tcuiz4vvgp/out/v1/592a07c12bad4e238a9368baf2bc0a6b/cenc.mpd
+
+#EXTINF:-1 group-title="Vitality Blast Final, 2026",Low
+https://live-prod.n3u7gh-familyit.store/dynamic-api977/m3u8-test.json
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
