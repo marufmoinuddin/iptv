@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-18 23:47:11 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-19 02:04:15 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -36,42 +36,6 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 #EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FAST 2
-https://hls.live123.fans/live/4459814.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
-https://fawa.pull-sp-tail-op.online/XIIII/stream.xml?&e=.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",SP
-https://fawa.pull-sp-tail-op.online/XIIIIF/stream.xml?&e=.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FAST 4
-https://hls.live123.fans/live/4459812.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FUSSBALL
-https://cp11.adabmedia.com/hls2/sport.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 group-title="World Cup 2026 - Bronze-Final",FUSSBALL 4K (Germany VPN)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
@@ -176,17 +140,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 group-title="Major League Cricket, 2026",SP
-https://spown.pull-sp-tail-op.online/stream69?&.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3
-#EXTINF:-1 group-title="Vitality Blast Final, 2026",Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/tcuiz4vvgp/out/v1/592a07c12bad4e238a9368baf2bc0a6b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
+#EXTINF:-1 group-title="Major League Cricket, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
 
-#EXTINF:-1 group-title="Vitality Blast Final, 2026",Low
-https://frycdn.messop10-interm.site/dynamic-api977/m3u8-test.json
+#EXTINF:-1 group-title="Major League Cricket, 2026",SP
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
