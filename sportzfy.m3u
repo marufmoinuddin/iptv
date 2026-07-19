@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-19 15:52:32 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-19 16:51:24 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -37,30 +37,6 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 #EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL 4K (Germany VPN)
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",FC - BDIX
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
-#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/lcesfa9iv7/out/v1/a20ee6d07b714c14a6524fedd578b2af/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
