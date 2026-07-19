@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-19 08:07:12 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-19 10:22:19 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -39,7 +39,7 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",SP
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -54,43 +54,37 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF:-1 group-title="Banglpadesh in Zimbabwe, 2026",FC - BDIX
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
+#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/2jvuxazqdu/out/v1/2aa757faf26849d59be9185edaf49192/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/lcesfa9iv7/out/v1/a20ee6d07b714c14a6524fedd578b2af/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
+#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/2jvuxazqdu/out/v1/2aa757faf26849d59be9185edaf49192/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/lcesfa9iv7/out/v1/a20ee6d07b714c14a6524fedd578b2af/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
+#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/2jvuxazqdu/out/v1/2aa757faf26849d59be9185edaf49192/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/lcesfa9iv7/out/v1/a20ee6d07b714c14a6524fedd578b2af/cenc.mpd
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
+#KODIPROP:inputstream.adaptive.license_key=5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c
 #EXTINF:-1 group-title="India in England, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd
 
 #EXTINF:-1 group-title="India in England, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 group-title="India in England, 2026",SP
-https://ebhgcexwvrcwtoigljiv.supabase.co/functions/v1/swift-processor?url=qUdBolHkqVYKolYnQVABosHSql_jdVq_o5zUdk18qsqUd5bRdkP_HVykoVyKHVbnolHKqUySQVHnH5HkqMbRdkSsHGSf3sHhQVynoVwBdkAKdsEndsyhdk95okABos9udVd5dVwWeGz63jfmeGBsH7W5dk9nolyKQlEBe7PWqVS8qGuALlNWIVoXFCv_I0o84OabOlgQz1rmokrRdVbndja_IU_TFRoTLpaX45dJ4UzsIU_TEhuK4G8kLGrmFk6kE0zKLw
-
-#EXTINF:-1 group-title="India in England, 2026",Hindi
-https://ebhgcexwvrcwtoigljiv.supabase.co/functions/v1/swift-processor?url=qUdBolHkqVYKolYnQVABosHSql_jdVq_o5zUdk18qsqUd5bRdkP_HVykoVyKHVbnolHKqUySQVHnH5HkqMbRdkSsHGSf3sHhQVynoVwBdkAKdsEndsyhdk95okABos9udVd5dVwWeGz63jfmeGBsH7W5dk9nolyKQlEBe7PWqVS8qGuALlNWIVoXFCv_I0o84OabOloQz1rmdVASdlyndja_IU_TFRoTLpaX45dJ4UzsIU_TEhuK4G8kLGrmFk6kE0zKLw
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
