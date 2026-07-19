@@ -1,30 +1,30 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-19 16:51:24 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-19 17:53:53 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
+https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Final",FAST 2
 https://hls.live123.fans/live/4459814.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://fawa.pull-sp-tail-op.online/XIIII/stream.xml?&e=.m3u8
+https://kobsuudupdusegcabarv.supabase.co/functions/v1/smooth-worker?url=Q09k4OufLM8fFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFU1hLG8kEMS8Olwhv7o5dly_q7v6L0oJ4Rzn4GgfI0vmVjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://fawa.pull-sp-tail-op.online/XIIIIF/stream.xml?&e=.m3u8
+https://kobsuudupdusegcabarv.supabase.co/functions/v1/smooth-worker?url=Q09k4OukLM8fLpak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFU1hLG8kEMS8Olwhv7o5dly_q7v6L0oJ4Rzn4GgfI0vmVjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 
-#EXTINF:-1 group-title="World Cup 2026 - Final",FAST 4
-https://hls.live123.fans/live/4459812.m3u8
+#EXTINF:-1 group-title="World Cup 2026 - Final",SP
+https://kobsuudupdusegcabarv.supabase.co/functions/v1/smooth-worker?url=Q09k4OuB91gkLM8fLpak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFU1hLG8kEMS8Olwhv7o5dly_q7v6L0oJ4Rzn4GgfI0vmVjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
 
 #EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL
 https://cp11.adabmedia.com/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026 - Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
+https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -40,15 +40,15 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
+#KODIPROP:inputstream.adaptive.license_key=c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/lcesfa9iv7/out/v1/a20ee6d07b714c14a6524fedd578b2af/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
+#KODIPROP:inputstream.adaptive.license_key=c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/lcesfa9iv7/out/v1/a20ee6d07b714c14a6524fedd578b2af/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
