@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-19 02:04:15 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-19 05:45:44 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="World Cup 2026 - Final",SP
@@ -139,15 +139,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
-#EXTINF:-1 group-title="Major League Cricket, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
-
-#EXTINF:-1 group-title="Major League Cricket, 2026",SP
-https://spown.pull-sp-tail-op.online/stream69?&.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://txt.pull-sp-tail-op.online/raw/stream.txt?&.m3u8
