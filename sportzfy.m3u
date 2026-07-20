@@ -1,43 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-19 23:52:11 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-20 02:24:47 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://play5.998586.com/live/1130397301_613221099_720p.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",FAST 2
-https://hls.live123.fans/live/4459815.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://kobsuudupdusegcabarv.supabase.co/functions/v1/smooth-worker?url=Q09k4OufLM8fFRoTLpNBoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFU1hLG8kEMS8Olwhv7o5dly_q7v6L0oJ4Rzn4GgfI0vmVjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://kobsuudupdusegcabarv.supabase.co/functions/v1/smooth-worker?url=Q09k4OukLM8fLpak4MYmQV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFU1hLG8kEMS8Olwhv7o5dly_q7v6L0oJ4Rzn4GgfI0vmVjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",SP
-https://kobsuudupdusegcabarv.supabase.co/functions/v1/smooth-worker?url=Q09k4OuB91gkLM8fLpak4MYmoV9JdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFU1hLG8kEMS8Olwhv7o5dly_q7v6L0oJ4Rzn4GgfI0vmVjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL
-https://cp11.adabmedia.com/hls2/sport.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026 - Final",CHINA
-https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 group-title="World Cup 2026 - Final",FUSSBALL 4K (Germany VPN)
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954
