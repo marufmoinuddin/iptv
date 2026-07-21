@@ -1,27 +1,12 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-21 17:11:19 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-21 19:09:47 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
-#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
-
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313
-#EXTINF:-1 group-title="New Zealand in West Indies, 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
-
 #EXTINF:-1 group-title="New Zealand in West Indies, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
