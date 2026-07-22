@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-22 22:07:00 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-22 23:58:16 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -146,9 +146,12 @@ https://sonymtmnew.akamaized.net/hls/live/20000291/EnglandW2505/ENG/std_lrh-8003
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 #EXTINF:-1 group-title="MLS 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+https://chatgpt.hereisman.net/playlist/53692/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 group-title="MLS 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4460343.m3u8?txSecret=dd356fd93fbf878201df6bf71886de5d&txTime=6A62A380
+
+#EXTINF:-1 group-title="MLS 2026",Server 2
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784766115-0-0-55d9544f1acb0df2143c57a46e8c7dc9
 
