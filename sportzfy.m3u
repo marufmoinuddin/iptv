@@ -1,60 +1,60 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-22 08:15:35 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-22 11:03:43 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9e2j8xbrdg/out/v1/0b845045284c478aa1f129602fc2b3ee/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
