@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-22 23:58:16 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-23 02:40:11 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -145,9 +145,6 @@ https://sonymtmnew.akamaized.net/hls/live/20000291/EnglandW2505/ENG/std_lrh-8003
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="MLS 2026",SP
-https://chatgpt.hereisman.net/playlist/53692/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 group-title="MLS 2026",Server 1
 https://pul-tenm.gkykp.com/live/sd-1-4460343.m3u8?txSecret=dd356fd93fbf878201df6bf71886de5d&txTime=6A62A380
