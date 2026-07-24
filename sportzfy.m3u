@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-24 08:14:50 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-24 10:57:51 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -115,4 +115,10 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://play.ntcwix.com/rrty/sd-1-4592268_gqzm.m3u8?auth_key=1784894195-0-0-ce40ca4b97e9cf6b3c61862177656727&token=7a5166c34e5e67df&device=4&platform=rrty
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://live.kinxie.com/live/72764574_246c9205828238d26a7897e8618d1804_1080p.m3u8?auth_key=1784904719-0-0-0afb3af23827809966deb6aa77ef2942
 
