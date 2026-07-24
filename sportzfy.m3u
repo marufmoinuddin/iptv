@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-24 10:57:51 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-24 12:19:05 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,7 +63,7 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 group-title="Formula 1",Server 2
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/45cc4a49-1850-4d4f-a765-5f77f36b3dc0/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -116,9 +116,12 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://pul-tenm.gkykp.com/live/sd-1-4592268.m3u8?txSecret=8ad0569d58325d09e0d2e1b81e3ad758&txTime=6A649641
+
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://play.ntcwix.com/rrty/sd-1-4592268_gqzm.m3u8?auth_key=1784894195-0-0-ce40ca4b97e9cf6b3c61862177656727&token=7a5166c34e5e67df&device=4&platform=rrty
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://live.kinxie.com/live/72764574_246c9205828238d26a7897e8618d1804_1080p.m3u8?auth_key=1784904719-0-0-0afb3af23827809966deb6aa77ef2942
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://live3.kinxie.com/live/zrkn6i4y255swql_272bc6e5c0c09784c4cf76c91e5526af_1080p.m3u8?auth_key=1784909431-0-0-4730b1ae46702b6103f85c983757b8fd
 
