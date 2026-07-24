@@ -1,16 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-24 18:14:43 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-24 20:15:09 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4529441.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4529441-20195.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
@@ -88,18 +79,6 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?h
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66b2d13bde7d42c5d5777b1d73924cc4:7fcc7b95a9b0d5f9c4b7e66ca5144b0c
-#EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/6lt4bpentj/out/v1/86da780f1a174ddf94bdbb1e8880b7c4/cenc.mpd
-
-#EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 #EXTINF:-1 group-title="MotoGP",SP
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
@@ -130,12 +109,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4594326.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4594326-20202.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4589375.m3u8
