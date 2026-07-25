@@ -1,21 +1,15 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-25 22:47:47 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-25 23:55:25 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-#EXTINF:-1 group-title="Brasileiro Serie A 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 group-title="MLS 2026",SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-#EXTINF:-1 group-title="Brasileiro Serie A 2026",SP
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#EXTINF:-1 group-title="MLS 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4460372.m3u8?txSecret=d8066927aa566bb122e925bef3a97bb2&txTime=6A669969
 
-#EXTINF:-1 group-title="Brasileiro Serie A 2026",Server 1
-https://pul-tenm.gkykp.com/live/sd-1-4465718.m3u8?txSecret=980cdf533ed3d587af6633b42715ec19&txTime=6A665C78
+#EXTINF:-1 group-title="MLS 2026",Server 2
+https://hls.live123.fans/live/4460372.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://pul-tenm.gkykp.com/live/sd-1-4541764.m3u8?txSecret=42a0d6aa76739ea5ddaee57b388775b0&txTime=6A668270
@@ -88,12 +82,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="MLS 2026",Server 1
-https://stream.sports3.win/iptv/live/signal-4460372-22107.m3u8
-
-#EXTINF:-1 group-title="MLS 2026",Server 2
-https://hls.live123.fans/live/4460372.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4541765.m3u8
