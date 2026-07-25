@@ -1,24 +1,15 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-25 09:43:47 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-25 11:04:58 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-#EXTINF:-1 group-title="India in Zimbabwe, 2026",FC - HD
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
 
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",FC ENG - BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/143352_english_hls_cd4f806e1b92407_1ta-di_h264/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-#EXTINF:-1 group-title="India in Zimbabwe, 2026",FC - SD
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 group-title="India in Zimbabwe, 2026",FC HIN - BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="India in Zimbabwe, 2026",Server 1
+https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -58,9 +49,9 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/45cc4a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66b2d13bde7d42c5d5777b1d73924cc4:7fcc7b95a9b0d5f9c4b7e66ca5144b0c
+#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/6lt4bpentj/out/v1/86da780f1a174ddf94bdbb1e8880b7c4/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
@@ -101,9 +92,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://pul-tenm.gkykp.com/live/sd-1-4592268.m3u8?txSecret=8ad0569d58325d09e0d2e1b81e3ad758&txTime=6A649641
-
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://play.ntcwix.com/rrty/sd-1-4592268_gqzm.m3u8?auth_key=1784894195-0-0-ce40ca4b97e9cf6b3c61862177656727&token=7a5166c34e5e67df&device=4&platform=rrty
+https://hls.live123.fans/live/4594045.m3u8
 
