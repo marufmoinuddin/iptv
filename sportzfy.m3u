@@ -1,7 +1,28 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-25 17:54:20 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-25 18:58:42 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=e277e9043c1b0ace14a39c8699a2035a&txTime=6A665139
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4593988.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://pul-tenm.gkykp.com/live/sd-1-4547862.m3u8?txSecret=a0cfb3faaa7c43547bb2dea3530d1707&txTime=6A664AA9
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://live3.kinxie.com/live/72303666_bc5fe3ff9802669ba2c6c89793ad9b0e_1080p.m3u8?auth_key=1785016415-0-0-17cb1f110e51d803f08082391efe86c6
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://play.ntcwix.com/rrty/sd-1-4547862_gqzm.m3u8?auth_key=1785005995-0-0-67eba480ce8135ff3a12e17cd6a4d608&token=4611296b45cb07c3&device=4&platform=rrty
+
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
 
@@ -22,9 +43,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/mbin9d6gwz/out/v1/69477eb759754974a
 
 #EXTINF:-1 group-title="Pakistan in West Indies, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
-
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
@@ -81,12 +99,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4593987.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4593987-21638.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 http://193.47.62.190/hls/llllQQ.m3u8|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
@@ -108,8 +120,95 @@ https://stream.sports3.win/iptv/live/signal-4592624-21819.m3u8
 http://193.47.62.190/hls/llllQ.m3u8|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4547862.m3u8
+https://hls.live123.fans/live/4594045.m3u8
+
+#EXTINF:-1 group-title="MLS 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4460343.m3u8?txSecret=dd356fd93fbf878201df6bf71886de5d&txTime=6A62A380
+
+#EXTINF:-1 group-title="MLS 2026",Server 2
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784766115-0-0-55d9544f1acb0df2143c57a46e8c7dc9
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4593988.m3u8
+https://hls.live123.fans/live/4594419.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594419-21417.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594419.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594419-21417.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541782.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4541782-21480.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594326.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594326-20202.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4561577.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4561577-21068.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://stream.sports3.win/iptv/live/signal-4561577-21493.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4529441.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4529441-20195.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594022.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594022-21174.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://stream.sports3.win/iptv/live/signal-4594022-21496.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4595940.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4595940-21508.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://stream.sports3.win/iptv/live/signal-4595940-21561.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4595940.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4595940-21508.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://stream.sports3.win/iptv/live/signal-4595940-21561.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4593987.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4593987-21638.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4595191.m3u8
 
