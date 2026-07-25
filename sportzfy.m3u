@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-25 18:58:42 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-25 20:13:34 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -17,11 +17,8 @@ https://hls.live123.fans/live/4593988.m3u8
 #EXTINF:-1 group-title="Club Friendly Games 2026",SP
 https://pul-tenm.gkykp.com/live/sd-1-4547862.m3u8?txSecret=a0cfb3faaa7c43547bb2dea3530d1707&txTime=6A664AA9
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://live3.kinxie.com/live/72303666_bc5fe3ff9802669ba2c6c89793ad9b0e_1080p.m3u8?auth_key=1785016415-0-0-17cb1f110e51d803f08082391efe86c6
-
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://play.ntcwix.com/rrty/sd-1-4547862_gqzm.m3u8?auth_key=1785005995-0-0-67eba480ce8135ff3a12e17cd6a4d608&token=4611296b45cb07c3&device=4&platform=rrty
+https://hls.live123.fans/live/4547862.m3u8
 
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
@@ -98,26 +95,20 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.190/hls/llllQQ.m3u8|referer=http://www.fawanews.sc/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+#EXTINF:-1 group-title="Brasileiro Serie A 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.190/hls/llllQQQ.m3u8|referer=http://www.fawanews.sc/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+#EXTINF:-1 group-title="Brasileiro Serie A 2026",SP
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4592625.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4592625-21812.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4592624.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4592624-21819.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.190/hls/llllQ.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 group-title="Brasileiro Serie A 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4465718.m3u8?txSecret=980cdf533ed3d587af6633b42715ec19&txTime=6A665C78
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4594045.m3u8
