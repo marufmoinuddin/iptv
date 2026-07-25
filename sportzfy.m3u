@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-25 07:57:27 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-25 09:43:47 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -27,16 +27,16 @@ https://bd-mc-pdlive.fancode.com/mumbai/143351_hindi_hls_e275e99cda1596_1ta-di_h
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 group-title="ICC CWC League 2, 2023-27",FC - BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -100,4 +100,10 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://pul-tenm.gkykp.com/live/sd-1-4592268.m3u8?txSecret=8ad0569d58325d09e0d2e1b81e3ad758&txTime=6A649641
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://play.ntcwix.com/rrty/sd-1-4592268_gqzm.m3u8?auth_key=1784894195-0-0-ce40ca4b97e9cf6b3c61862177656727&token=7a5166c34e5e67df&device=4&platform=rrty
 
