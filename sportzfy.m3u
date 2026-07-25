@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-25 11:04:58 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-25 13:10:18 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
@@ -8,8 +8,11 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",FC ENG - BDIX
 https://bd-mc-pdlive.fancode.com/mumbai/143352_english_hls_cd4f806e1b92407_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="India in Zimbabwe, 2026",Server 1
-https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87e80af08df44d1184a37a449b814978:85633aaa416821e65278dcc980066447
+#EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
+https://in-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -93,5 +96,11 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4594045.m3u8
+https://hls.live123.fans/live/4594419.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594419-21417.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541782.m3u8
 
