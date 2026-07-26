@@ -1,16 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-26 02:09:30 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-26 05:55:11 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="MLS 2026",SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
-
-#EXTINF:-1 group-title="MLS 2026",Server 1
-https://pul-tenm.gkykp.com/live/sd-1-4460372.m3u8?txSecret=d8066927aa566bb122e925bef3a97bb2&txTime=6A669969
-
-#EXTINF:-1 group-title="MLS 2026",Server 2
-https://hls.live123.fans/live/4460372.m3u8
-
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
 
@@ -32,8 +23,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/mbin9d6gwz/out/v1/69477eb759754974a
 #EXTINF:-1 group-title="Pakistan in West Indies, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#EXTINF:-1 group-title="Global Super League, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
 #EXTINF:-1 group-title="Global Super League, 2026",FC - BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/Index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 group-title="Global Super League, 2026",Server 1
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
 https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
@@ -229,15 +229,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4541765.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4541782.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4541782-21480.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4594326.m3u8
