@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-26 16:05:18 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-26 17:57:47 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8
-
-#EXTINF:-1 group-title="India in Zimbabwe, 2026",FC ENG - BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/143353_english_hls_63ced2230f71145_1ta-di_h264/index.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a
@@ -67,39 +61,33 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+#KODIPROP:inputstream.adaptive.license_key=ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/bgu3gn3pzf/out/v1/40b1e5fa0da2496fbad65d0c002ed227/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+#KODIPROP:inputstream.adaptive.license_key=ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/bgu3gn3pzf/out/v1/40b1e5fa0da2496fbad65d0c002ed227/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+#KODIPROP:inputstream.adaptive.license_key=ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/bgu3gn3pzf/out/v1/40b1e5fa0da2496fbad65d0c002ed227/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+#KODIPROP:inputstream.adaptive.license_key=ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/bgu3gn3pzf/out/v1/40b1e5fa0da2496fbad65d0c002ed227/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+#KODIPROP:inputstream.adaptive.license_key=ddf949ecd1277625c80bf1529da06c5d:9d04c9b29d5084fcf0230e893b8a724d
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
-#EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/bgu3gn3pzf/out/v1/40b1e5fa0da2496fbad65d0c002ed227/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -195,35 +183,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://stream.sports3.win/iptv/live/signal-4561578-22754.m3u8
+https://stream.sports3.win/iptv/live/signal-4594468-22819.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4561578.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4593987.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4593987-21638.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4595191.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.190/hls/llllQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.193/hls/JUUUQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4592625.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4592625-21812.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4592624.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4592624-21819.m3u8
+https://hls.live123.fans/live/4594468.m3u8
 
