@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-26 08:15:11 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-26 10:40:14 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
@@ -35,17 +35,41 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-
 #EXTINF:-1 group-title="Global Super League, 2026",Server 1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
+https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
@@ -145,75 +169,75 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea01a57c8c07f77ab30874d48fa7bb43:b231cc65ee79f7044f44587c167f889b
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9k4akefjta/out/v1/e7b0226d517d4cf6abd64c4555a56fbb/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -229,12 +253,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4594326.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4594326-20202.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4561577.m3u8
