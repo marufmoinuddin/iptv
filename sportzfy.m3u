@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-26 17:57:47 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-26 19:08:21 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -16,15 +16,6 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247431_english_hls_2e615b273261719_1ta-
 
 #EXTINF:-1 group-title="Global Super League, 2026",Server 1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda
-#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd
-
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -121,15 +112,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e
-#EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd
-
-#EXTINF:-1 group-title="The Hundred Women, 2026",SONY
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785093658~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a7dad76c2d5b5b1d6d315e7164ae0ff67f003e5db04a5f4dc8770dd7a4078128
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
