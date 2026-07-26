@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-26 14:59:52 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-26 16:05:18 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="India in Zimbabwe, 2026",SP
@@ -208,4 +208,22 @@ https://stream.sports3.win/iptv/live/signal-4593987-21638.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4595191.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+http://193.47.62.190/hls/llllQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+http://193.47.62.193/hls/JUUUQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4592625.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4592625-21812.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4592624.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4592624-21819.m3u8
 
