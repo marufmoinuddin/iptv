@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-27 20:18:12 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-27 22:01:23 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -46,12 +46,6 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 #EXTINF:-1 group-title="ICC CWC League 2, 2023-27",Server 1
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785170737~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=268ce2f63a100df4424a63737022022c80f8fe84fe241b8bbbeedf6cf976d975/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e
-#EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -145,4 +139,34 @@ https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4541764.m3u8?txSecret=42a0d6aa76739ea5ddaee57b388775b0&txTime=6A668270
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541765.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://play.ntcwix.com/rrty/sd-1-4541776_gqzm.m3u8?auth_key=1785038625-0-0-ce87beda8f161a34fc52ca87236b8e16&token=ea3141bda58f2b1c&device=4&platform=rrty
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a95e7a7427e313f05f2d1f5aceb13548&txTime=6a65cbd8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4594224.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://stream.sports3.win/iptv/live/signal-4594314-22620.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4594314.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://stream.sports3.win/iptv/live/signal-4561578-22754.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4561578.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+http://193.47.62.193/hls/JUUUQQ.m3u8|referer=http://www.fawanews.sc/
 
