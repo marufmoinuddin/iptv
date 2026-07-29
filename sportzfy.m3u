@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-29 22:56:39 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-29 23:57:45 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -20,8 +20,8 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs
 #EXTINF:-1 group-title="Global Super League, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 group-title="Global Super League, 2026",FC - BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4247432_english_hls_c7c55ade2b7672_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Global Super League, 2026",SP
+https://cdn.spedge.site/will/image.webp?&e=.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -158,8 +158,14 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/liv.m3u8
+
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4541766.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://pul-tenm.gkykp.com/live/hd-en-1-4541766.m3u8?txSecret=54f4e20520e78bffcf38b66e650601c2&txTime=6A6BDFE1
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://live3.kinxie.com/live/72097692_05af2a644ee8ba36ab8b4bc9114d54f0_1080p.m3u8?auth_key=1785333449-0-0-b7dcf6e858e8b3a3e19e4cb5d5f596e8
