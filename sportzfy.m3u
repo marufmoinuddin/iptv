@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-29 10:34:35 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-29 12:58:51 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -110,17 +110,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/bdz0zcfgfl/out/v1/92bd22cc54584ac7aacfaabc0ffb8993/cenc.mpd
 
-#EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7edd310f2503018cc990f7d1341cf50a:18b71cc2e91b3b3b992d2758142c687b
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/bdz0zcfgfl/out/v1/92bd22cc54584ac7aacfaabc0ffb8993/cenc.mpd
-
-#EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -137,20 +131,11 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://live.kinxie.com/live/70028026_70c1553b6506d95a3f1635fa3bab120a_1080p.m3u8?auth_key=1785333337-0-0-72821818da3d11cd51c08d465f50db76
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4541777.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://live3.kinxie.com/live/72097692_05af2a644ee8ba36ab8b4bc9114d54f0_1080p.m3u8?auth_key=1785333449-0-0-b7dcf6e858e8b3a3e19e4cb5d5f596e8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4537346.m3u8
-
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4600786.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4596075.m3u8?txSecret=432865de6def7954df48543307e6fcff&txTime=6A6B3720
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4596075.m3u8
