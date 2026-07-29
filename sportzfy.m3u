@@ -1,22 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-29 00:03:25 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-29 04:03:07 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTINF:-1 group-title="Brasileiro Serie A 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#EXTINF:-1 group-title="Brasileiro Serie A 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 group-title="Brasileiro Serie A 2026",Server 1
-https://hls.live123.fans/live/4546921.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f
