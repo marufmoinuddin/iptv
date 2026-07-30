@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-30 17:20:27 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-30 19:16:27 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -22,15 +22,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 group-title="Global Super League, 2026",SP
 https://cdn.spedge.site/will/image.webp?&e=.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bb88765156b5ad3d80387bf317e9a9e:d0d384ff170674a6d69d87382470cfb4
-#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
-
-#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -152,59 +143,17 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://stream.sports3.win/iptv/live/signal-4596014-23668.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4596014.m3u8
-
 #EXTINF:-1 group-title="UEFA Conference League 26/27",Server 1
 https://hls.live123.fans/live/4590935.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-#EXTINF:-1 group-title="UEFA Europa League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-#EXTINF:-1 group-title="UEFA Europa League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e946a30032d952a0655f21f470b1d93c:3ef0e2d0e425356a815f6475b243396e
-#EXTINF:-1 group-title="UEFA Europa League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/2fk9iyloil/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
-
-#EXTINF:-1 group-title="UEFA Europa League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2005444/UEL_Fina2005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779345228~acl=/*~id=11945157660860893379667079822277~hmac=8fcabe6565e8ee290df75ba621bf366350a7760194ca9ffacb3691bc8c20bddd
-
-#EXTINF:-1 group-title="UEFA Europa League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2005444/UEL_Fina2005/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779345228~acl=/*~id=11945157660860893379667079822277~hmac=8fcabe6565e8ee290df75ba621bf366350a7760194ca9ffacb3691bc8c20bddd
-
-#EXTINF:-1 group-title="UEFA Europa League 26/27",Server 1
-https://chatgpt.hereisman.net/playlist/50893/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/
+#EXTINF:-1 group-title="UEFA Europa League 26/27",Server 2
+https://hls.live123.fans/live/4556488.m3u8
 
 #EXTINF:-1 group-title="UEFA Europa League 26/27",LOW
-http://193.47.62.55/hls/QJJJQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 group-title="UEFA Europa League 26/27",Arabic
-http://het111c.ycn-redirect.com/live/918454578001/index.m3u8?t=-ohaCx5T5947P_VqED6qVQ&e=1779302772|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36|
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=055a60e4c666c2100d35e208fa8674a4:8635d0eb122d911e9a72f318fc21c59d
-#EXTINF:-1 group-title="UEFA Conference League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/rpx7ofzsyr/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
-
-#EXTINF:-1 group-title="UEFA Conference League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2094588/UEFA_Str0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778221845~acl=/*~id=33560495395568287053725150110813~hmac=01a00408150ab2d45c784164a8be8c2a699b2099d4f389b9dd678c87f7954f43
+http://193.47.62.191/hls/IBBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 group-title="UEFA Conference League 26/27",Server 2
-https://live.vivo200.com/live/hd-en-1-4532045.m3u8?txSecret=8b39989a85a2439cf426a2cfb0887f19&txTime=69FD27B4|referer=https://player.787200.com/
+https://hls.live123.fans/live/4556617.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
