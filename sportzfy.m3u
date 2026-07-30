@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-30 08:13:56 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-30 11:02:31 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -159,16 +159,7 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600816.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4598859.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/lev.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4596075.m3u8
+https://hls.live123.fans/live/4598861.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://stream.sports3.win/iptv/live/signal-4596014-23668.m3u8
