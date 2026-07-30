@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-30 13:45:12 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-30 15:48:31 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -29,8 +29,8 @@ https://cdn.spedge.site/will/image.webp?&e=.m3u8
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
 
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -38,8 +38,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
 
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
@@ -50,8 +50,8 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
 
-#EXTINF:-1 group-title="Lanka Premier League, 2026",BDIX
-https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -158,6 +158,9 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+http://193.47.62.190/hls/BBBBA.m3u8|referer=http://www.fawanews.sc/
+
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4598861.m3u8
 
@@ -168,37 +171,13 @@ https://stream.sports3.win/iptv/live/signal-4596014-23668.m3u8
 https://hls.live123.fans/live/4596014.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4593748.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.190/hls/ufffQQ.m3u8|referer=http://www.fawanews.sc/
+https://hls.live123.fans/live/4600833.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4596086.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-#EXTINF:-1 group-title="UEFA Conference League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36e7d201f63b45f090f03b5f2a11c746:1259f737f8df4981951220cbbbb33794
-#EXTINF:-1 group-title="UEFA Conference League 26/27",SP
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779983862~acl=%2F*~id=ff48809a-1ed0-485b-8e2c-05b8ca345bdb~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0OTImZWlkPTk2MzI0MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=43b4cb5bdc5747d5cc9a966de9e41b3439b2d750fbf8fc742200802ada806293/dash/live/2019675/303759-322102/manifest-d.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb41989d05879c568d5ac4ad0a9a01ce:5851a21f35a30ba64113c281db44993e
-#EXTINF:-1 group-title="UEFA Conference League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4y5qs1hnrw/out/v1/8fb3af3c9ca449cfbcbb4e18d7b237e5/596816ac-bf60-40bb-9c28-5f4510213d98-cenc.mpd
-
-#EXTINF:-1 group-title="UEFA Conference League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2018457/UECL_Cry2705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779951931~acl=/*~id=96125668500245209983145465024362~hmac=6291b0c26e20c65bd75c59664e325a023783aa9e03f415af65dc7dc4bcf6f065
+https://hls.live123.fans/live/4600830.m3u8
 
 #EXTINF:-1 group-title="UEFA Conference League 26/27",Server 1
-https://pulltx.jdnzrgm.com/live/hd-en-6MwdLJmpA9kvc4YcMk.m3u8?txSecret=faba29c91460fd449e4f2a4ce2c1cdc5&txTime=6A176691
+https://hls.live123.fans/live/4590935.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
