@@ -1,16 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-31 20:58:39 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-31 22:06:07 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/fcb.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4561581.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4561581-25299.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f
@@ -67,12 +58,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 
 #EXTINF:-1 group-title="Formula 1",Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cae86fb1afd60ef183c5a334c3a5422:9dfd7451be124599a96fa06cbc5082d4
-#EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4jiqncqor/out/v1/c63970168daf442aa9d09bf871bbc43e/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
