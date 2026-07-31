@@ -1,7 +1,16 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-07-31 17:23:38 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-07-31 19:15:33 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/fcb.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4561581.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4561581-25299.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f
@@ -109,12 +118,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/pvpxiiikaa/out/v1/de74c3949001427fa
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8
-#EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/pvpxiiikaa/out/v1/de74c3949001427faf64e0e15d5b577f/cenc.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 #EXTINF:-1 group-title="Pakistan Women in Sri Lanka, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
@@ -124,39 +127,6 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://live2.kinxie.com/live/72722672_76c14cd6718e182d71ce526e5aca51e7_1080p.m3u8?auth_key=1785527851-0-0-0797782acd009b7ac5ca3493ee43a36a
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://tedesco.paradilux.store/juve.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600874.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://live.kinxie.com/live/72985580_8b442e92c639d5a62de5643613fc5ffb_1080p.m3u8?auth_key=1785528085-0-0-06fc696785a5868e8c18dacc1e0abb8a
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600871.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600882.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600883.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4561581.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4561581-25299.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTINF:-1 group-title="Africa Cup of Nations, Women 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
