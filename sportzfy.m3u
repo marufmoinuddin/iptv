@@ -1,9 +1,9 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-01 10:30:17 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-01 11:59:12 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="Asian Legends League 2026",Server 1
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 group-title="Asian Legends League 2026",Server 2
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -94,15 +94,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8
+#KODIPROP:inputstream.adaptive.license_key=71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8
+#KODIPROP:inputstream.adaptive.license_key=71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -116,18 +116,6 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4602657-26073.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/che.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4541774.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4541774-26089.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -137,8 +125,20 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4600241.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600241.m3u8
+https://hls.live123.fans/live/4541772.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://stream.sports3.win/iptv/live/signal-4541772-25777.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4596089.m3u8
