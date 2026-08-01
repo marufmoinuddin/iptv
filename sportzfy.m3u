@@ -1,7 +1,10 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-01 22:48:46 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-01 23:52:42 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#EXTINF:-1 group-title="Summer Slam",SP
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/12.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f
@@ -136,6 +139,9 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 group-title="MLS 2026",SP
+https://live5.kinxie.com/live/66299314_203457ce49804b0279e4620ad50662e9_1080p.m3u8?auth_key=1785641126-0-0-0432a6f487b886752e5c14688bfbd9e2
 
 #EXTINF:-1 group-title="MLS 2026",Server 2
 https://hls.live123.fans/live/4460408.m3u8
