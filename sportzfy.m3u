@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-01 20:43:37 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-01 21:49:07 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -137,15 +137,18 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="MLS 2026",SP
-https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/dm.m3u8
-
-#EXTINF:-1 group-title="MLS 2026",Server 1
-https://pul-tenm.gkykp.com/live/sd-1-4460372.m3u8?txSecret=d8066927aa566bb122e925bef3a97bb2&txTime=6A669969
-
 #EXTINF:-1 group-title="MLS 2026",Server 2
-https://hls.live123.fans/live/4460372.m3u8
+https://hls.live123.fans/live/4460408.m3u8
 
-#EXTINF:-1 group-title="Copa do Brasil 2026",Server 3
-https://h.cettuku.shop/hls/SASASAQQQQQ.m3u8|referer=http://www.fawanews.sc/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTINF:-1 group-title="Copa do Brasil 2026",Server 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+#EXTINF:-1 group-title="Copa do Brasil 2026",Server 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
