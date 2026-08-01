@@ -1,7 +1,10 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-01 05:50:12 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-01 08:10:29 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#EXTINF:-1 group-title="Asian Legends League 2026",Server 1
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f
@@ -114,19 +117,16 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4541767.m3u8
+https://stream.sports3.win/iptv/live/signal-4602657-26073.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600816.m3u8
+https://hls.live123.fans/live/4601499.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4600837.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-http://193.47.62.190/hls/BBBBA.m3u8|referer=http://www.fawanews.sc/
+https://hls.live123.fans/live/4541774.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4598861.m3u8
+https://stream.sports3.win/iptv/live/signal-4541774-26089.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4600241.m3u8
