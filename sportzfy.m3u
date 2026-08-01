@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-01 02:26:48 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-01 05:50:12 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -112,4 +112,46 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4541767.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600816.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4600837.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+http://193.47.62.190/hls/BBBBA.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4598861.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600241.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600241.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4596089.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://live2.kinxie.com/live/72722672_76c14cd6718e182d71ce526e5aca51e7_1080p.m3u8?auth_key=1785527851-0-0-0797782acd009b7ac5ca3493ee43a36a
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://tedesco.paradilux.store/juve.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600874.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://live.kinxie.com/live/72985580_8b442e92c639d5a62de5643613fc5ffb_1080p.m3u8?auth_key=1785528085-0-0-06fc696785a5868e8c18dacc1e0abb8a
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600871.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600882.m3u8
 
