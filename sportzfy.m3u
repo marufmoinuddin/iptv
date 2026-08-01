@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-01 13:25:05 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-01 14:55:15 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="Asian Legends League 2026",Server 2
@@ -28,9 +28,9 @@ https://cdn.spedge.site/will/image.webp?&e=.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bb88765156b5ad3d80387bf317e9a9e:d0d384ff170674a6d69d87382470cfb4
+#KODIPROP:inputstream.adaptive.license_key=d1f70173042301b032487392b35ca8b1:adfc1365758a8afc5f1c4b627474e915
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qnibsr61zt/out/v1/65d00769fa804b1c8b2b6832dd6ea171/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
@@ -40,9 +40,9 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bb88765156b5ad3d80387bf317e9a9e:d0d384ff170674a6d69d87382470cfb4
+#KODIPROP:inputstream.adaptive.license_key=d1f70173042301b032487392b35ca8b1:adfc1365758a8afc5f1c4b627474e915
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qnibsr61zt/out/v1/65d00769fa804b1c8b2b6832dd6ea171/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
@@ -64,15 +64,15 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b
+#KODIPROP:inputstream.adaptive.license_key=7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b
+#KODIPROP:inputstream.adaptive.license_key=7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -110,30 +110,6 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4541772.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
-https://stream.sports3.win/iptv/live/signal-4541772-25777.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://live.kinxie.com/live/72574782_b745d71c7cab4cf1944f76e056e30024_1080p.m3u8?auth_key=1785601969-0-0-bb983613dd81d6f6870d96cc662b8034
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4601523.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600882.m3u8
-
 #EXTINF:-1 group-title="Club Friendly Games 2026",SP
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
@@ -141,5 +117,5 @@ https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGc
 https://hls.live123.fans/live/4541757.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4600883.m3u8
+https://hls.live123.fans/live/4601602.m3u8
 
