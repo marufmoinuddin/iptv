@@ -1,10 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-02 14:57:56 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-02 15:59:26 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="Asian Legends League 2026",Server 2
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=073f49c98b014fac6bdc28613f2db606:cd379c5766086df20eb674d073e1d4cd
@@ -88,15 +85,6 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34f09cecd025b07b03fac4651db5dc0:242f315a8a0400c65ffa8bf4a02be4fe
-#EXTINF:-1 group-title="The Hundred, 2026",SP
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4wx4w5tg5j/out/v1/87a9fd25ee574b7bb5847ebc2f8659d6/cenc.mpd
-
-#EXTINF:-1 group-title="The Hundred, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 #EXTINF:-1 group-title="MotoGP",SP
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
@@ -142,12 +130,6 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://live2.jxa76.com/live/sd-6MxiZdbvz4C6yDqNwM.m3u8?txSecret=d0b79c58be07db85a6769307239d97fc&txTime=19FC3DF6A96
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://latestmovies.net/api/live/playlist/49?.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4602809.m3u8
