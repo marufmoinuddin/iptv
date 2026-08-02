@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-02 11:57:52 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-02 13:17:48 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #EXTINF:-1 group-title="Asian Legends League 2026",Server 2
@@ -141,10 +141,10 @@ https://hls.live123.fans/live/4602293.m3u8
 https://stream.sports3.win/iptv/live/signal-4602293-27836.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4602711.m3u8
+https://live2.jxa76.com/live/sd-6MxiZdbvz4C6yDqNwM.m3u8?txSecret=d0b79c58be07db85a6769307239d97fc&txTime=19FC3DF6A96
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4602711-27416.m3u8
+https://latestmovies.net/api/live/playlist/49
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
