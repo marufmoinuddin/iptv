@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-03 18:46:19 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-03 20:22:58 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -40,18 +40,18 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=488f1e087ef08fde7bf01b963463d341:672611664799a02cd388ae17e4f0bfc7
+#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65wmrzwreu/out/v1/a69f40a3fb1642f7ac58ab1458a00a65/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=488f1e087ef08fde7bf01b963463d341:672611664799a02cd388ae17e4f0bfc7
+#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65wmrzwreu/out/v1/a69f40a3fb1642f7ac58ab1458a00a65/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
