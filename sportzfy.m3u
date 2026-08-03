@@ -1,10 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-03 02:10:19 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-03 06:14:51 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="Summer Slam",SP
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/12.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=073f49c98b014fac6bdc28613f2db606:cd379c5766086df20eb674d073e1d4cd
@@ -70,15 +67,6 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=488f1e087ef08fde7bf01b963463d341:672611664799a02cd388ae17e4f0bfc7
-#EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65wmrzwreu/out/v1/a69f40a3fb1642f7ac58ab1458a00a65/cenc.mpd
-
-#EXTINF:-1 group-title="The Hundred, 2026",BDIX
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 #EXTINF:-1 group-title="MotoGP",SP
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
@@ -115,7 +103,4 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4541768.m3u8
 
