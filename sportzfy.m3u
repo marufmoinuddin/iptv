@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-04 07:33:56 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-04 10:31:16 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -70,6 +70,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4602316.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4602316-28639.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4602807.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4602807-27353.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
