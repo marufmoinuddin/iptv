@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-04 15:21:03 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-04 17:39:43 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -13,6 +13,24 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2cfg2bnfy2/out/v1/e04f7be270f345f7b9712c6d619c9cc5/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2cfg2bnfy2/out/v1/e04f7be270f345f7b9712c6d619c9cc5/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -31,9 +49,27 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
+#KODIPROP:inputstream.adaptive.license_key=0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109
 #EXTINF:-1 group-title="The Hundred, 2026",SP
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd
+
+#EXTINF:-1 group-title="The Hundred, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109
+#EXTINF:-1 group-title="The Hundred, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd
+
+#EXTINF:-1 group-title="The Hundred, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109
+#EXTINF:-1 group-title="The Hundred, 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/pn1vflywrn/out/v1/98415fdfef234f7dbd877e4eae604121/cenc.mpd
 
 #EXTINF:-1 group-title="The Hundred, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
@@ -55,6 +91,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f
+#EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -115,6 +157,75 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/7PlDuPWSqaitmZ7uC
 
 #EXTINF:-1 group-title="Africa Cup of Nations, Women 2026",Server 1
 http://193.47.62.191/hls/GSSSDD.m3u8|referer=http%3A%2F%2Fwww.fawanews.sc%2F&origin=http%3A%2F%2Fwww.fawanews.sc&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F128.0.0.0%20Safari%2F537.36
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTINF:-1 group-title="Copa do Brasil 2026",Server 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+#EXTINF:-1 group-title="Copa do Brasil 2026",Server 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://live.kinxie.com/live/72726996_19ca68f7afb6bf2626575bc84d005812_1080p.m3u8?auth_key=1785855617-0-0-7261d948a9d8a50b5ce30b37f47af90a
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541783.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4602807.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4602807-27353.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594016.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://live2.jxa76.com/live/sd-6MxiZdbvz4C6yDqNwM.m3u8?txSecret=d0b79c58be07db85a6769307239d97fc&txTime=19FC3DF6A96
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://latestmovies.net/api/live/playlist/49?.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4602809.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4602809-27432.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://m.fawanews.news/?channel=SkySportCalcioIT
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541769.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4541768.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4596089.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
+#EXTINF:-1 group-title="UEFA Champions League Women 26/27",SP
+https://dice-live-oc.akamaized.net/hdntl=exp=1779630446~acl=%2F*~id=73cc8a93-53b9-4ff8-bb93-fc324174ae24~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NiZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=dba06fc59dc4d49ed1b51697907e2aaf21028e69d12b920e9789d798df8c6c58/dash/live/2093724/219039-321035/manifest-d.mpd
+
+#EXTINF:-1 group-title="UEFA Champions League Women 26/27",Server 1
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/443711b7-c1e7-4198-b24f-15abf88ae415/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
+#EXTINF:-1 group-title="UEFA Champions League Women 26/27",SP
+https://dice-live-oc.akamaized.net/hdntl=exp=1779630446~acl=%2F*~id=73cc8a93-53b9-4ff8-bb93-fc324174ae24~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NiZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=dba06fc59dc4d49ed1b51697907e2aaf21028e69d12b920e9789d798df8c6c58/dash/live/2093724/219039-321035/manifest-d.mpd
+
+#EXTINF:-1 group-title="UEFA Champions League Women 26/27",Server 1
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/443711b7-c1e7-4198-b24f-15abf88ae415/master.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
