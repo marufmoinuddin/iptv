@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-05 05:42:05 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-05 08:26:25 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -96,25 +96,25 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/behaiysc5j/out/v1/739ec77f50f8457a8
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/behaiysc5j/out/v1/739ec77f50f8457a85734b6a5564fa8c/cenc.mpd
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://live.kinxie.com/live/72726996_19ca68f7afb6bf2626575bc84d005812_1080p.m3u8?auth_key=1785855617-0-0-7261d948a9d8a50b5ce30b37f47af90a
+https://hls.live123.fans/live/4603118.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4541783.m3u8
 
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4603118-29197.m3u8
+
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4602807.m3u8
+https://hls.live123.fans/live/4541781.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://stream.sports3.win/iptv/live/signal-4602807-27353.m3u8
+https://stream.sports3.win/iptv/live/signal-4541781-29218.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4594016.m3u8
+https://hls.live123.fans/live/4561567.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://live2.jxa76.com/live/sd-6MxiZdbvz4C6yDqNwM.m3u8?txSecret=d0b79c58be07db85a6769307239d97fc&txTime=19FC3DF6A96
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://latestmovies.net/api/live/playlist/49?.m3u8
+https://hls.live123.fans/live/4541775.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4603095.m3u8
