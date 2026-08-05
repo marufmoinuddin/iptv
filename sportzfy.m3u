@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-05 13:52:15 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-05 15:58:26 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -16,9 +16,9 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c
+#KODIPROP:inputstream.adaptive.license_key=1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f
 #EXTINF:-1 group-title="Lanka Premier League, 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd
 
 #EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
