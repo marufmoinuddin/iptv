@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-05 15:58:26 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-05 17:37:07 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -86,14 +86,17 @@ https://hls.live123.fans/live/4603095.m3u8
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4541769.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4541768.m3u8
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541770.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4596089.m3u8
+https://stream.sports3.win/iptv/live/signal-4541770-29365.m3u8
 
-#EXTINF:-1 group-title="UEFA Champions League Women 26/27",Server 1
-https://hls.live123.fans/live/4589298.m3u8
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594021.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594021-29370.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
