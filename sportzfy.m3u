@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-06 11:15:22 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-06 13:49:56 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -73,15 +73,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
+#KODIPROP:inputstream.adaptive.license_key=6818868b06409ee7869850f878c30665:4766f05f2c1de3cd0896ccd99f662fd1
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd
+
+#EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
+#KODIPROP:inputstream.adaptive.license_key=6818868b06409ee7869850f878c30665:4766f05f2c1de3cd0896ccd99f662fd1
 #EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd
+
+#EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",SP
 https://hls.live123.fans/live/4603118.m3u8
