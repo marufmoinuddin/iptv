@@ -1,9 +1,24 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-06 01:57:48 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-06 05:17:53 UTC)
 #SOURCE: https://live.sportzfy.life
 #
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6bba14af87d4c612d2374935291b33bd:6ac0fef8b7181dac3862a82bc491cc1a
+#EXTINF:-1 group-title="Afghanistan in Ireland, 2026",Server 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mpk9tjbvih/out/v1/6e9b46389891440b856e60332a2b432f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f
+#EXTINF:-1 group-title="Lanka Premier League, 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd
+
+#EXTINF:-1 group-title="Lanka Premier League, 2026",Server 1
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -19,6 +34,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 
 #EXTINF:-1 group-title="Formula 1",Server 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2d3c4f07d795ca038af64432ae866ca:e122279e79133f6c1a5c8996c598150f
+#EXTINF:-1 group-title="The Hundred, 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xcdlizqkde/out/v1/08668ec117274d65ba50e8e7ba00c31d/cenc.mpd
+
+#EXTINF:-1 group-title="The Hundred, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2d3c4f07d795ca038af64432ae866ca:e122279e79133f6c1a5c8996c598150f
+#EXTINF:-1 group-title="The Hundred, 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xcdlizqkde/out/v1/08668ec117274d65ba50e8e7ba00c31d/cenc.mpd
+
+#EXTINF:-1 group-title="The Hundred, 2026",BDIX
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -38,8 +71,65 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 group-title="MotoGP",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 group-title="Leagues Cup 2026",SP
-https://live1.kinxie.com/live/69652872_ff86da69b67a69f2d376e98d6fd37433_1080p.m3u8?auth_key=1785986682-0-0-f9a343e23701379cc9023ff309a797a8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
+#EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
+#EXTINF:-1 group-title="The Hundred Women, 2026",Server 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://hls.live123.fans/live/4603118.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541783.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4603118-29197.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541781.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4541781-29218.m3u8
+
+#EXTINF:-1 group-title="UEFA Conference League 26/27",Server 2
+https://hls.live123.fans/live/4556617.m3u8
+
+#EXTINF:-1 group-title="UEFA Europa League 26/27",Server 2
+https://hls.live123.fans/live/4556488.m3u8
+
+#EXTINF:-1 group-title="UEFA Europa League 26/27",LOW
+http://193.47.62.191/hls/IBBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 group-title="Africa Cup of Nations, Women 2026",Server 1
+http://193.47.62.191/hls/FEEEAA.m3u8|referer=http%3A%2F%2Fwww.fawanews.sc%2F&origin=http%3A%2F%2Fwww.fawanews.sc&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F128.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://hls.live123.fans/live/4603118.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541783.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4603118-29197.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541781.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4541781-29218.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4561567.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541775.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
