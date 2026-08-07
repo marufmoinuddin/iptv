@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-07 19:48:17 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-07 20:35:29 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -223,6 +223,138 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/5qz8wmdome/out/v1/b
 
 #EXTINF:-1 group-title="EFL Cup 26/27",Server 2
 https://hls.live123.fans/live/4567211.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4537354.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541781.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4541781-29218.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4561567.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786126079-0-0-cf4305107c30efba69adc36cc035fbab
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4541770.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4541770-29365.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594021.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://stream.sports3.win/iptv/live/signal-4594021-29370.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://live2.kinxie.com/live/72722672_76c14cd6718e182d71ce526e5aca51e7_1080p.m3u8?auth_key=1785527851-0-0-0797782acd009b7ac5ca3493ee43a36a
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://tedesco.paradilux.store/juve.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4600874.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://live.kinxie.com/live/72574782_b745d71c7cab4cf1944f76e056e30024_1080p.m3u8?auth_key=1785601969-0-0-bb983613dd81d6f6870d96cc662b8034
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4601523.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4541757.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTINF:-1 group-title="EFL Cup 26/27",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:-1 group-title="EFL Cup 26/27",SP
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 group-title="EFL Cup 26/27",Server 2
+https://hls.live123.fans/live/4567211.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4601602.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://live4.kinxie.com/live/72501932_594c13c6e9a45029884942a9d4a2401d_1080p.m3u8?auth_key=1785611862-0-0-8e540e6a5d4614735698f142e4249028
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://hls.live123.fans/live/4594034.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://live.kinxie.com/live/72841990_478240c5ad6e3913186145ba4d6c982f_1080p.m3u8?auth_key=1785614841-0-0-7c9960e20d816b65488fb4ba596c4300
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4581646.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 3
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4565098.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://pul-tenm.gkykp.com/live/sd-1-4547862.m3u8?txSecret=a0cfb3faaa7c43547bb2dea3530d1707&txTime=6A664AA9
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4547862.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+#EXTINF:-1 group-title="Eredivisie 26/27",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#EXTINF:-1 group-title="Eredivisie 26/27",SP
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=e277e9043c1b0ace14a39c8699a2035a&txTime=6A665139
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
+https://hls.live123.fans/live/4593988.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
