@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-07 18:45:19 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-07 19:48:17 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -208,9 +208,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/btm2t3w9rs/out/v1/bbc9fa0b0ba7411d8
 
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786126079-0-0-cf4305107c30efba69adc36cc035fbab
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
