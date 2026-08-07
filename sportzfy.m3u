@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-07 10:47:40 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-07 11:40:58 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7,6 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b
 #EXTINF:-1 group-title="Afghanistan in Ireland, 2026",SP
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec
+#EXTINF:-1 group-title="Afghanistan in Ireland, 2026",SP
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
@@ -130,15 +136,9 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 group-title="MotoGP",SP
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-#EXTINF:-1 group-title="MotoGP",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -227,8 +227,26 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/aom5odkfja/out/v1/6ee7883d26b84be3b
 #EXTINF:-1 group-title="The Hundred Women, 2026",BDIX
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4603205.m3u8
+https://hls.live123.fans/live/4537354.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
 https://hls.live123.fans/live/4541781.m3u8
