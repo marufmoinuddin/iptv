@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-07 23:29:43 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-08 01:08:16 UTC)
 #SOURCE: https://live.sportzfy.life
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -13,6 +13,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/zze2qgnuud/out/v1/7ed0272c46aa49809
 #KODIPROP:inputstream.adaptive.license_key=37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec
 #EXTINF:-1 group-title="Afghanistan in Ireland, 2026",SP
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd
+
+#EXTINF:-1 group-title="Friday Night SmackDown",SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8
 
 #EXTINF:-1 group-title="Friday Night SmackDown",SP
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
@@ -379,6 +382,9 @@ https://pul-tenm.gkykp.com/live/sd-1-4593988.m3u8?txSecret=e277e9043c1b0ace14a39
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4593988.m3u8
+
+#EXTINF:-1 group-title="Monday Night Raw",SP
+https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
