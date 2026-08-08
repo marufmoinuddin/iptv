@@ -1,15 +1,12 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-08 14:28:04 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-08 15:24:08 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4537314.m3u8
+https://hls.live123.fans/live/4541758.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -263,11 +260,8 @@ https://hls.live123.fans/live/4609931.m3u8
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
 https://hls.live123.fans/live/4578494.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",SP
-https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4541757.m3u8
+https://hls.live123.fans/live/4610265.m3u8
 
 #EXTINF:-1 group-title="EFL Cup 26/27",Server 2
 https://hls.live123.fans/live/4567184.m3u8
@@ -284,14 +278,11 @@ https://hls.live123.fans/live/4567209.m3u8
 #EXTINF:-1 group-title="EFL Cup 26/27",Server 1
 https://hls.live123.fans/live/4567210.m3u8
 
-#EXTINF:-1 group-title="Club Friendly Games 2026",Server 2
-https://hls.live123.fans/live/4601602.m3u8
-
 #EXTINF:-1 group-title="Club Friendly Games 2026",SP
 https://live4.kinxie.com/live/72501932_594c13c6e9a45029884942a9d4a2401d_1080p.m3u8?auth_key=1785611862-0-0-8e540e6a5d4614735698f142e4249028
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",Server 1
-https://hls.live123.fans/live/4594034.m3u8
+https://hls.live123.fans/live/4594035.m3u8
 
 #EXTINF:-1 group-title="Club Friendly Games 2026",SP
 https://live.kinxie.com/live/72841990_478240c5ad6e3913186145ba4d6c982f_1080p.m3u8?auth_key=1785614841-0-0-7c9960e20d816b65488fb4ba596c4300
