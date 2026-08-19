@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST: BD Sportzfy (fetched 2026-08-18 01:04:48 UTC)
+#PLAYLIST: BD Sportzfy (fetched 2026-08-19 01:05:33 UTC)
 #SOURCE: https://live.sportzfy.life
 #
-#EXTINF:-1 group-title="Pakistan National Champions Cup",Server 2
-https://cdn01isb-n.tamashaweb.com:8087/jazzauth/NCC-2026-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI2IDExOjUzOjMxIEFNJmhhc2hfdmFsdWU9U0tlVFlPcm5zSDV0dVk4dmNuRFlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-
-#EXTINF:-1 group-title="Pakistan National Champions Cup",Server 3
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102508&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=58eaaf823b8b124213229ac251f2efbc
-
 #EXTINF:-1 group-title="Bangladesh in Australia, 2026",Tapmad
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
@@ -19,15 +13,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a659
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c026d347ad3c252e666d82296991a0c8:0923b37a3667f6a0670f547e08ffe010
+#KODIPROP:inputstream.adaptive.license_key=1b549c9708f7789b0d4ab6c713d4de5e:94e123e5f00b8d1caa96a8d1d553c811
 #EXTINF:-1 group-title="India in Sri Lanka, 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deaahgx71n/out/v1/7c443871ca8541d0812335763b75377c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehjcsyqvx2/out/v1/f9cfef4fe2bd445b939ad4f7a24829db/cenc.mpd%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/149.0.0.0%20Safari/537.36
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="India in Sri Lanka, 2026",SP
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd%7Cuser-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/149.0.0.0%20Safari/537.36
 
 #EXTINF:-1 group-title="India in Sri Lanka, 2026",SONY
 https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979
@@ -92,98 +86,86 @@ https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/raw.m3u8
 #EXTINF:-1 group-title="Monday Night Raw",SP
 https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 
-#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570053.m3u8
+#EXTINF:-1 group-title="Kings Cup 26/27",SP
+https://china-sp.pages.dev/Nass.json?&.m3u8
 
 #EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570037.m3u8
+https://hls.live123.fans/live/4570039.m3u8
 
 #EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570060.m3u8
+https://hls.live123.fans/live/4570051.m3u8
 
-#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570035.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:-1 group-title="UEFA Champions League 26/27",SP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 group-title="UEFA Champions League 26/27",Server 1
-https://hls.live123.fans/live/4602287.m3u8
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",Server 2
-https://stream.sports3.win/iptv/live/signal-4602287-34567.m3u8
+https://hls.live123.fans/live/4608842.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="UEFA Champions League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e97f48bffb38c1b2453d5ff7a919759f:8e1381edeed7829031963ac576700747
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 group-title="UEFA Champions League 26/27",SP
-https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=868f5c91cb11396c64bdaca4118f6b60:7a5317e82291250f16830fd6bb5f329a
-#EXTINF:-1 group-title="UEFA Champions League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9fswtwjj0c/out/v1/1070854a94fe427dbfdd78a5dac2743f/cenc.mpd
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",Server 2
-https://live.vivo200.com/live/hd-en-1-4517581.m3u8?txSecret=6319fa2b78d3fc19435e8d3a4f39cb9e&txTime=69E02695|referer=https://player.mix5000.com/
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",Arabic
-http://het119a.ycn-redirect.com/live/918454578001/index.m3u8?t=tB9jjKNGmM6N10pcPFNj-A&e=1776186349|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570053.m3u8
-
-#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570037.m3u8
-
-#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
-https://hls.live123.fans/live/4570060.m3u8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #EXTINF:-1 group-title="UEFA Champions League 26/27",Server 1
-https://hls.live123.fans/live/4602287.m3u8
+https://hls.live123.fans/live/4608834.m3u8
 
-#EXTINF:-1 group-title="UEFA Champions League 26/27",Server 2
-https://stream.sports3.win/iptv/live/signal-4602287-34567.m3u8
+#EXTINF:-1 group-title="ASEAN Championship 2026",SP
+https://live.kinxie.com/live/73550270_d02212bc3826035c02a2b1bb1f52f4b1_1080p.m3u8?auth_key=1787073419-0-0-7f15473bc82f14cea8880b87a4d4eac9
+
+#EXTINF:-1 group-title="ASEAN Championship 2026",Server 1
+https://hls.live123.fans/live/4612553.m3u8
+
+#EXTINF:-1 group-title="Kings Cup 26/27",SP
+https://china-sp.pages.dev/itt.json?&.m3u8
+
+#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
+https://hls.live123.fans/live/4570046.m3u8
+
+#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
+https://hls.live123.fans/live/4570041.m3u8
+
+#EXTINF:-1 group-title="Club Friendly Games 2026",SP
+https://china-sp.pages.dev/bay.json?&.m3u8
+
+#EXTINF:-1 group-title="Kings Cup 26/27",SP
+https://china-sp.pages.dev/ett.json?&.m3u8
+
+#EXTINF:-1 group-title="Kings Cup 26/27",Server 1
+https://hls.live123.fans/live/4570055.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #EXTINF:-1 group-title="UEFA Champions League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 group-title="UEFA Champions League 26/27",Server 1
+https://hls.live123.fans/live/4608842.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e97f48bffb38c1b2453d5ff7a919759f:8e1381edeed7829031963ac576700747
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="UEFA Champions League 26/27",SP
-https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mjl28zz5rj/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=868f5c91cb11396c64bdaca4118f6b60:7a5317e82291250f16830fd6bb5f329a
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 group-title="UEFA Champions League 26/27",SP
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/9fswtwjj0c/out/v1/1070854a94fe427dbfdd78a5dac2743f/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="UEFA Champions League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",SONY
-https://sonymtmnew.akamaized.net/hls/live/2005445/UCL_Baye1504/HIN/std_lrh-800300010.m3u8?hdnea=exp=1776321113~acl=/*~id=73290982892272677427497237003877~hmac=3d1961d7b141f6da0bbaf7a18d7bc8129d8650fcec114b375d1f8ae3ace26dc4
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",Server 2
-https://live.vivo200.com/live/hd-en-1-4517581.m3u8?txSecret=6319fa2b78d3fc19435e8d3a4f39cb9e&txTime=69E02695|referer=https://player.mix5000.com/
-
-#EXTINF:-1 group-title="UEFA Champions League 26/27",Arabic
-http://het119a.ycn-redirect.com/live/918454578001/index.m3u8?t=tB9jjKNGmM6N10pcPFNj-A&e=1776186349|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Champions League 26/27",Server 1
+https://hls.live123.fans/live/4608834.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
